@@ -1,0 +1,395 @@
+2	Archaea	762906:762905
+3	Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae; Aeropyrum; Aeropyrum pernix K1	1032473
+4	Archaea; Crenarchaeota; Thermoprotei; Sulfolobales	1732173:1732174:1732180:1245909
+5	Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Acidianus	512792
+6	Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Acidianus; Acidianus brierleyi	693629
+7	Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Acidianus; Acidianus convivator	315953:346882:346883:437444
+8	Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Acidianus; Acidianus hospitalis	235266
+9	Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Acidianus; Acidianus sp. Acii26	309181
+10	Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Stygiolobus	537009
+11	Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus	1580591:1732178
+12	Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus; Sulfolobus islandicus	157899:176106:459291:157898
+13	Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus; Sulfolobus solfataricus	269145
+14	Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus; Sulfolobus solfataricus P2	1351702
+15	Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus; Sulfolobus sp.	248496:256994
+16	Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus; Sulfolobus sp. G4ST-2	754004
+17	Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus; Sulfolobus sp. G4T-1	693628
+18	Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Thermoproteus; Thermoproteus tenax	270161:292639
+19	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Haloarcula; Haloarcula californiae	1273748:1273746
+20	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Haloarcula; Haloarcula hispanica	128710:1154689:326574:128708:710112
+21	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Haloarcula; Haloarcula hispanica ATCC 33960	1442594
+22	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Haloarcula; Haloarcula sinaiiensis	1262530
+23	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Haloarcula; Haloarcula vallismortis	1262528
+24	Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Haloferax; Haloferax lucentense	222645
+25	Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Halogeometricum; Halogeometricum sp. CG-9	1156722
+26	Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Halorubrum	416419:754066
+27	Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Halorubrum; Halorubrum coriense	33771
+28	Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Halorubrum; Halorubrum sp. B2-2	1273755:1273754
+29	Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Halorubrum; Halorubrum sp. PV6	634168
+30	Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Halorubrum; Halorubrum sp. SP3-3	1156720
+31	Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Halorubrum; Halorubrum sp. s5a-3	1273752
+32	Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae; Natrialba; Natrialba magadii	114777
+33	Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanothermobacter; Methanothermobacter thermautotrophicus	77048
+34	Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Pyrococcus; Pyrococcus abyssi	425386
+35	Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus; Thermococcus prieurii	1115696
+36	Bacteria	1211417
+37	Bacteria; Actinobacteria; Actinobacteria; Actinomycetales; Actinomycetaceae; Actinomyces; Actinomyces naeslundii	338473
+38	Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Corynebacteriaceae; Corynebacterium; Corynebacterium glutamicum	384848
+39	Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Corynebacteriaceae; Corynebacterium; [Brevibacterium] flavum	28358
+40	Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Gordoniaceae; Gordonia; Gordonia malaquae	1647286
+41	Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Gordoniaceae; Gordonia; Gordonia rubripertincta	1109710
+42	Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Gordoniaceae; Gordonia; Gordonia sp.	1622190
+43	Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Gordoniaceae; Gordonia; Gordonia terrae	1647474:1647475
+44	Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae; Mycobacterium	1541823:1327959:31757:1673876:1527535
+45	Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae; Mycobacterium; Mycobacterium avium	1305710:88870
+46	Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae; Mycobacterium; Mycobacterium smegmatis	205868:1262532:205880:373412:373408:205875:373409:373410:205874:205872:373403:1675549:373404:205876:685506:1675553:373413:205879:205869:1675554
+47	Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae; Mycobacterium; Mycobacterium smegmatis str. MC2 155	1071505:1527580:1718172:1391179:1051140:546184:1089110:1089121:1414748:1647309:1718600:1486469:1052673:1536598:1445726:1034149:1647301:1089136:1175504:1698366:1340709:1325953:1327774:1662284:1527534:1698417:1391432:540064:1076630:1698356:1391430:1076136:861045:1527536:1486426:1340833:1701845:1567475:1458726:1340826:1414747:1486473:1327035:1089117:1034128:1463812:1089135:1458724:1739966:1089108:1204515:1327936:1327770:540067:1647300:1445715:1589274:1089128:1718166:540065:1340820:663554:563122:1429904:1340708:1527513:1086749:1486424:1458846:563119:1089137:546805:1445714:1327938:1463809:1391181:1458710:561999:1340836:1647306:1698713:1486425:1327939:1567471:1527463:1354511:1555233:1088866:1296647:563123:1079894:1527512:1079895:1245814:1327764:1034143:1035485:1429791:1327776:1051138:1698709:1327766:1698420:1074305:1089120:1340822:1071506:546803:1071504:1391429:1383054:1647308:1647302:546183:1718171:1074303:663553:1340713:1391433:1086800:1084722:1567005:1354512:1340818:1647313:1471542:1056830:1327773:1383056:260121:1340831:1468169:938131:649688:1034125:1701849:1035482:1556289:1445727:1383059:1056831:1327036:1486472:1555201:1498204:1429903:563121:1739967:1673873:1560285:1168594:1486403:1089111:1567472:1458711:540066:1354514:546185:1567473:1354510:1340821:1527520:540068:1327937:663560:1647305:1089118:1698358:1354508:546806:1097753:1698712:1536603:711470:1506716:1391180:1527511:561996
+48	Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae; Mycobacterium; Mycobacterium tuberculosis	45764:1327947:1327952:28369
+49	Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae; Mycobacterium; Mycobacterium vaccae	205877
+50	Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Nocardiaceae; Nocardia; Nocardia brasiliensis	1109711
+51	Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Nocardiaceae; Rhodococcus	691965:1007869:1109714:691964:691963:1109712
+52	Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Nocardiaceae; Rhodococcus; Rhodococcus erythropolis	1109715
+53	Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Nocardiaceae; Rhodococcus; Rhodococcus globerulus	1109716:981323
+54	Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Tsukamurellaceae; Tsukamurella; Tsukamurella inchonensis	1636545
+55	Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Tsukamurellaceae; Tsukamurella; Tsukamurella paurometabola	981330
+56	Bacteria; Actinobacteria; Actinobacteria; Micrococcales; Intrasporangiaceae; Tetrasphaera; Tetrasphaera jenkinsii	981335
+57	Bacteria; Actinobacteria; Actinobacteria; Micrococcales; Microbacteriaceae; Clavibacter; Clavibacter michiganensis subsp. michiganensis	686439
+58	Bacteria; Actinobacteria; Actinobacteria; Micrococcales; Microbacteriaceae; Microbacterium; Microbacterium nematophilum	446529
+59	Bacteria; Actinobacteria; Actinobacteria; Micrococcales; Microbacteriaceae; Microbacterium; Microbacterium oxydans	1458670
+60	Bacteria; Actinobacteria; Actinobacteria; Micrococcales; Micrococcaceae; Arthrobacter; Arthrobacter sp.	1566993
+61	Bacteria; Actinobacteria; Actinobacteria; Micrococcales; Micrococcaceae; Arthrobacter; Arthrobacter sp. ATCC 21022	1698361
+62	Bacteria; Actinobacteria; Actinobacteria; Micromonosporales; Micromonosporaceae; Actinoplanes; Actinoplanes sp. SN223/29	279303
+63	Bacteria; Actinobacteria; Actinobacteria; Propionibacteriales; Propionibacteriaceae; Propionibacterium; Propionibacterium acnes	1500801:1500822:1655019:1500807:1500828:1500802:1655017:1229782:1500808:1235653:1235650:1655012:1235647:1229789:1229787:1500813:376758:1500812:1500831:1229786:1500820:1235654:1229793:1229794:1498188:1500799:1500800:1229790:1235656:1655015:1655014:1500821:1500830:1500798:1235645:1655023:1500827
+64	Bacteria; Actinobacteria; Actinobacteria; Streptomycetales; Streptomycetaceae; Streptomyces; Streptomyces aureofaciens	370623
+65	Bacteria; Actinobacteria; Actinobacteria; Streptomycetales; Streptomycetaceae; Streptomyces; Streptomyces avermitilis	1204526:1755682
+66	Bacteria; Actinobacteria; Actinobacteria; Streptomycetales; Streptomycetaceae; Streptomyces; Streptomyces coelicolor A3-2-	10732:1204524
+67	Bacteria; Actinobacteria; Actinobacteria; Streptomycetales; Streptomycetaceae; Streptomyces; Streptomyces flavovirens	1690817:1690818
+68	Bacteria; Actinobacteria; Actinobacteria; Streptomycetales; Streptomycetaceae; Streptomyces; Streptomyces griseus	1674926:1690425:1636184
+69	Bacteria; Actinobacteria; Actinobacteria; Streptomycetales; Streptomycetaceae; Streptomyces; Streptomyces lividans	1327760:1327758:1327759
+70	Bacteria; Actinobacteria; Actinobacteria; Streptomycetales; Streptomycetaceae; Streptomyces; Streptomyces venezuelae	1204525
+71	Bacteria; Actinobacteria; Actinobacteria; Streptomycetales; Streptomycetaceae; Streptomyces; Streptomyces venezuelae ATCC 10712	1674927
+72	Bacteria; Aquificae; Aquificae; Aquificales; Aquificaceae; Hydrogenobaculum	1732176
+73	Bacteria; Bacteroidetes; Bacteroidetes; Bacteroidetes Order II. Incertae sedis; Rhodothermaceae; Salisaeta; Salisaeta sp. SP9-1	1183239
+74	Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Bacteroidaceae; Bacteroides; Bacteroides fragilis	99179:1105171
+75	Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; Parabacteroides; Parabacteroides merdae	1655645
+76	Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Cellulophaga; Cellulophaga baltica	1327968:1327990:1327974:1327981:1327987:1327980:1327993:1327969:1327976
+77	Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Cellulophaga; Cellulophaga baltica 13	1328030
+78	Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Cellulophaga; Cellulophaga baltica 18	1327982:1327983
+79	Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Cellulophaga; Cellulophaga baltica NN016038	1327977
+80	Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Cellulophaga; Cellulophaga sp. MM#3	756280
+81	Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Croceibacter; Croceibacter atlanticus HTCC2559	1327037
+82	Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Flavobacterium; Flavobacterium columnare	908819
+83	Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Flavobacterium; Flavobacterium sp.	294631
+84	Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Nonlabens	1168479:1168478
+85	Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Polaribacter	1647387
+86	Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Riemerella; Riemerella anatipestifer	936152
+87	Bacteria; Chlamydiae; Chlamydiia; Chlamydiales; Chlamydiaceae; Chlamydia; Chlamydia pecorum	225067
+88	Bacteria; Chlamydiae; Chlamydiia; Chlamydiales; Chlamydiaceae; Chlamydia; Chlamydia psittaci	105154:10857
+89	Bacteria; Chlamydiae; Chlamydiia; Chlamydiales; Chlamydiaceae; Chlamydia; Chlamydophila pneumoniae AR39	117575
+90	Bacteria; Cyanobacteria; Cyanobacteria; Nostocales; Nostocaceae; Anabaena; Anabaena variabilis	1357732
+91	Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Microcystis; Microcystis aeruginosa	340435
+92	Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechococcus	1079999
+93	Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechococcus; Synechococcus sp.	1026955
+94	Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechococcus; Synechococcus sp. CB0101	756275:1273711:754059
+95	Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechococcus; Synechococcus sp. CB0201	909297
+96	Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechococcus; Synechococcus sp. CB0202	753085
+97	Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechococcus; Synechococcus sp. WH 7803	754037:1493514:754038:869724:754039:1493509:1493510:444878:461711:1493512:238854:1340812:889953:536474:555387:1493508
+98	Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechococcus; Synechococcus sp. WH 8012	382359
+99	Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechococcus; Synechococcus sp. WH 8017	444876:444860
+100	Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechococcus; Synechococcus sp. WH 8018	536466
+101	Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechococcus; Synechococcus sp. WH 8101	754041:444861
+102	Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechococcus; Synechococcus sp. WH 8102	445683:1137745
+103	Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechococcus; Synechococcus sp. WH 8109	445684:438482
+104	Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Oscillatoriales; Leptolyngbya; Leptolyngbya foveolarum	440250:434346
+105	Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Oscillatoriales; Phormidium	400567
+106	Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Oscillatoriales; Phormidium; Phormidium sp.	1391455
+107	Bacteria; Cyanobacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus	268748:889955:889956
+108	Bacteria; Cyanobacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Prochlorococcus marinus	382273
+109	Bacteria; Cyanobacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Prochlorococcus marinus str. MIT 9303	444862
+110	Bacteria; Cyanobacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Prochlorococcus marinus str. MIT 9313	658401
+111	Bacteria; Cyanobacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Prochlorococcus marinus str. MIT 9515	444875
+112	Bacteria; Cyanobacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Prochlorococcus marinus str. NATL1A	445693:268746
+113	Bacteria; Cyanobacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Prochlorococcus marinus str. NATL2A	929832:268747:536453:885867
+114	Bacteria; Cyanobacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Prochlorococcus marinus subsp. marinus str. CCMP1375	616674
+115	Bacteria; Cyanobacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Prochlorococcus marinus subsp. pastoris str. CCMP1986	445696:382262
+116	Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae; Thermus; Thermus thermophilus	466051:1714273:1714272
+117	Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae; Thermus; Thermus thermophilus HB8	407392
+118	Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus anthracis	513550:1308863
+119	Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus anthracis str. Sterne	1690456
+120	Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus cereus	565140:1136534:347962:1296656:1734382:1141133:1129192:345922:225725:1136731:57477:584892:1296655:764595
+121	Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus cereus ATCC 14579	1498212
+122	Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus megaterium	1406789:1406790:1597966:1540093:1540090:1540092:1406786:1084719:1540091
+123	Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus pumilus	1406782:1204533:1406784
+124	Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus pumilus BL8	1273739:1273740:1273741
+125	Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus sp. 6k512	396034
+126	Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus subtilis	547228:66797:207656:10756:941058:10685:1406783:12345
+127	Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus thuringiensis	1486662:458639:1643326:1486661:552525:1194641:236750:1643324:307240:1357713
+128	Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus thuringiensis serovar israelensis ATCC 35646	1124578
+129	Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus thuringiensis serovar kurstaki	1510440:1698451:1382932:1406791
+130	Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus thuringiensis serovar tenebrionis	1236573
+131	Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus weihenstephanensis	1309583
+132	Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Geobacillus	447909
+133	Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Geobacillus; Geobacillus kaustophilus	1458842
+134	Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Geobacillus; Geobacillus sp. 6k51	365048
+135	Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Geobacillus; Geobacillus sp. E263	749413
+136	Bacteria; Firmicutes; Bacilli; Bacillales; Listeriaceae; Brochothrix; Brochothrix thermosphacta	764561:857312
+137	Bacteria; Firmicutes; Bacilli; Bacillales; Listeriaceae; Listeria	1225800:560178
+138	Bacteria; Firmicutes; Bacilli; Bacillales; Listeriaceae; Listeria; Listeria monocytogenes	1168744:1591072:40522:40523:1541821:40521:181007:330399:1486413:330396:330397:1486422:1486421
+139	Bacteria; Firmicutes; Bacilli; Bacillales; Listeriaceae; Listeria; Listeria monocytogenes FSL J1-208	1458857:1173748:1173745
+140	Bacteria; Firmicutes; Bacilli; Bacillales; Listeriaceae; Listeria; Listeria monocytogenes serotype 4b str. F2365	1458852
+141	Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae; Brevibacillus; Brevibacillus laterosporus	1296661:1296662:1691958:1691955
+142	Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae; Paenibacillus; Paenibacillus larvae	1718161:1636261:1589755:1636255:1636257:1589750:1337877
+143	Bacteria; Firmicutes; Bacilli; Bacillales; Sporolactobacillaceae; Bacillus; Bacillus clarkii	294382
+144	Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus	387908:387910
+145	Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus; Staphylococcus aureus	1195071:320835:1010614:320844:320843:760530:1453367:360398:320832:326036:445515:55510:874267:1308896:320837:204086:320831:215167:1698421:648017:1498220:575610:1235659:204090:668618:1308897:1636205:320840:1168612:326037:445517:387909:320836:872294:129009:1195068:320849:1168613:1204543:55511:445516:320834:320847:53369:320848:320850:71366:106284:1165702:387905:1041526:1007127:1526408:1399949:1277672:470865
+146	Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus; Staphylococcus aureus HIP07256	1519999
+147	Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus; Staphylococcus aureus subsp. aureus N315	225979
+148	Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus; Staphylococcus aureus subsp. aureus NCTC 8325	186153:186152
+149	Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus; Staphylococcus aureus subsp. aureus RN4220	1498171
+150	Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus; Staphylococcus epidermidis	1197952:1500386:1197953:1434319
+151	Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus; Staphylococcus hominis	1147042:1147044
+152	Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus; Staphylococcus pasteuri	1118063
+153	Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus; Staphylococcus saprophyticus	1403390
+154	Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus; Staphylococcus sp.	1572703
+155	Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae; Enterococcus; Enterococcus faecalis	1416012:767806:1640885:1204540:442493:673832:673837:663241:673835:1747326:1747287:1747288:673839:1173135
+156	Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae; Enterococcus; Enterococcus faecalis 62	977801
+157	Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae; Enterococcus; Enterococcus faecium	1161939:1718158
+158	Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus	52979
+159	Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus brevis	755164
+160	Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus casei	51369
+161	Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus delbrueckii	1500734:1399942:1500733:1500735
+162	Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus delbrueckii subsp. lactis	297254:12348:37105
+163	Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus fermentum	438780
+164	Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus gasseri	12417
+165	Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus gasseri ADH	1416334
+166	Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus jensenii	578234
+167	Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus johnsonii	139872:139871
+168	Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus paracasei	1739609:1739610:1739607:1739611:1739608:1414736
+169	Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus plantarum	298338:1225794
+170	Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus rhamnosus	146269:496874
+171	Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus sp.	947980
+172	Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Pediococcus; Pediococcus damnosus	1108070
+173	Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae; Leuconostoc; Leuconostoc mesenteroides	1262523:1262519:1262521:1262518
+174	Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae; Leuconostoc; Leuconostoc mesenteroides subsp. mesenteroides	1536605:1536604
+175	Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae; Leuconostoc; Leuconostoc pseudomesenteroides	1262520:1262516:1262522:1262515
+176	Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae; Weissella; Weissella cibaria	1161906
+177	Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Lactococcus	36343
+178	Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Lactococcus; Lactococcus lactis	114416:1476886:35345:213775:63118:213769:475178:1476889:31532:503388:354260:31537:382685:388452:1476888:35241:641487:1229751
+179	Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Lactococcus; Lactococcus lactis subsp. cremoris	1262538:1262535:1262536:12390
+180	Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Lactococcus; Lactococcus lactis subsp. lactis Il1403	151537:151538:151539:83129:1262533:151534
+181	Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus gordonii	537874
+182	Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus mitis	157924
+183	Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus mutans	1587907:1647391
+184	Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus oralis	644007
+185	Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus parauberis	1589270
+186	Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus pneumoniae	1448273:120574:1566990:1448276:12402:1448274
+187	Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus pneumoniae D39	1208587
+188	Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus pyogenes	173707:1701850
+189	Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus pyogenes MGAS315	198541:198540:198543:198538
+190	Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus salivarius 57.I	1051631
+191	Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus suis	413066
+192	Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus thermophilus	78541:306323:1385385:112023:459845:633135:646413:64186:85154
+193	Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus thermophilus DSM 20617	1392231
+194	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae; Clostridium	1522092:1445553
+195	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae; Clostridium; Clostridium perfringens	1042123:673376:1162304:1162306:1305708:1042122:1187894:541865
+196	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae; Clostridium; Clostridium sporogenes	1147137
+197	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae; Clostridium; Clostridium tetani	1567011:1567013
+198	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae; Clostridium; Clostridium tetani ATCC 9441	1567014
+199	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae; Clostridium; Clostridium tyrobutyricum	871584
+200	Bacteria; Firmicutes; Clostridia; Clostridiales; Peptostreptococcaceae; Peptoclostridium; Peptoclostridium difficile	1582154:1032362:1582156:1582151:1582153:559189:1582150:1204535:262071:1582157
+201	Bacteria; Firmicutes; Clostridia; Thermoanaerobacterales; Thermoanaerobacterales Family III. Incertae Sedis; Thermoanaerobacterium; Thermoanaerobacterium saccharolyticum JW/SL-YS485	1126885
+202	Bacteria; Proteobacteria; Alphaproteobacteria; Candidatus Puniceispirillum; Candidatus Puniceispirillum marinum IMCC1322	948071
+203	Bacteria; Proteobacteria; Alphaproteobacteria; Caulobacterales; Caulobacteraceae; Caulobacter; Caulobacter crescentus CB15	1357714
+204	Bacteria; Proteobacteria; Alphaproteobacteria; Caulobacterales; Caulobacteraceae; Caulobacter; Caulobacter vibrioides	1204537:1211641:1211640:1211643:1211642
+205	Bacteria; Proteobacteria; Alphaproteobacteria; Pelagibacterales; Pelagibacteraceae; Candidatus Pelagibacter; Candidatus Pelagibacter ubique HTCC1062	1283079:1283078:1283077
+206	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Brucella; Brucella abortus 544	1133292
+207	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Brucella; Brucella melitensis bv. 1 str. 16M	1133293
+208	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Phyllobacteriaceae; Mesorhizobium; Mesorhizobium loti	1527771
+209	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Agrobacterium; Agrobacterium sp. H13-3	1161931
+210	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Agrobacterium; Agrobacterium tumefaciens	929834
+211	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Candidatus Liberibacter; Candidatus Liberibacter asiaticus	941969:941970
+212	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium; Rhizobium gallicum	1458697
+213	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium; Rhizobium leguminosarum	1498228:1414737
+214	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Sinorhizobium; Sinorhizobium meliloti	179237:10704:1647405:1357423
+215	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Celeribacter; Celeribacter marinus	1197951
+216	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Dinoroseobacter; Dinoroseobacter shibae DFL 12 = DSM 16493	1477404
+217	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Loktanella; Loktanella sp. CB 2051	754044
+218	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Paracoccus; Paracoccus marcusii	1561065
+219	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Rhodobacter; Rhodobacter capsulatus SB 1003	1105286
+220	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Rhodobacter; Rhodobacter capsulatus YW1	1662332
+221	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Rhodobacter; Rhodobacter sp.	754055
+222	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Roseobacter; Roseobacter denitrificans OCh 114	562742
+223	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Ruegeria; Ruegeria pomeroyi DSS-3	1555208
+224	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Sulfitobacter; Sulfitobacter sp. CB2047	754046:754043:1526550
+225	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Sulfitobacter; Sulfitobacter sp. EE-36	490913
+226	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodospirillales; Rhodospirillaceae; Azospirillum; Azospirillum brasilense	467481
+227	Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales; Sphingomonadaceae; Sphingomonas; Sphingomonas paucimobilis	1150991
+228	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Achromobacter; Achromobacter xylosoxidans	1664247:1589747:1589746:1416009
+229	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; Burkholderia ambifaria	910474
+230	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; Burkholderia cenocepacia	910475:644524:1195073:279530:1401297:1132026:242527:1133022
+231	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; Burkholderia cenocepacia HI2424	446807
+232	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; Burkholderia cenocepacia J2315	264729
+233	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; Burkholderia cepacia	279280:348137:437329:260373:242861
+234	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; Burkholderia pseudomallei	332032:255131:431892:1282994
+235	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; Burkholderia pyrrocinia	335797
+236	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; Burkholderia thailandensis	431894:180504
+237	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Ralstonia	1585840
+238	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Ralstonia; Ralstonia pickettii	247080
+239	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Ralstonia; Ralstonia solanacearum	913183:1150992:1417599:926543:1354496:384359:1352227:1505528:1481785:406340:520962:1402875
+240	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Delftia; Delftia acidovorans	665032
+241	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Delftia; Delftia sp. 670	1647385
+242	Bacteria; Proteobacteria; Betaproteobacteria; Neisseriales; Chromobacteriaceae; Iodobacter; Iodobacter sp. CdM7	551895
+243	Bacteria; Proteobacteria; Deltaproteobacteria; Bdellovibrionales; Bdellovibrionaceae; Bdellovibrio; Bdellovibrio bacteriovorus	1127515:145579
+244	Bacteria; Proteobacteria; Deltaproteobacteria; Myxococcales; Cystobacterineae; Myxococcaceae; Myxococcus; Myxococcus xanthus	49964
+245	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Campylobacteraceae; Campylobacter	722418
+246	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Campylobacteraceae; Campylobacter; Campylobacter jejuni	1006972:934027
+247	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Campylobacteraceae; Campylobacter; Campylobacter jejuni subsp. jejuni PT14	1229752
+248	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Campylobacteraceae; Campylobacter; Campylobacter sp.	722417
+249	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae; Helicobacter; Helicobacter pylori	1204178
+250	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae; Helicobacter; Helicobacter pylori B45	1069378
+251	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae; Helicobacter; Helicobacter pylori F57	1208236
+252	Bacteria; Proteobacteria; Gammaproteobacteria; Aeromonadales; Aeromonadaceae; Aeromonas; Aeromonas hydrophila	1505227:1204516
+253	Bacteria; Proteobacteria; Gammaproteobacteria; Aeromonadales; Aeromonadaceae; Aeromonas; Aeromonas media	393598
+254	Bacteria; Proteobacteria; Gammaproteobacteria; Aeromonadales; Aeromonadaceae; Aeromonas; Aeromonas salmonicida	926067:233894:1198013:879628:321023:879630
+255	Bacteria; Proteobacteria; Gammaproteobacteria; Aeromonadales; Aeromonadaceae; Aeromonas; Aeromonas salmonicida subsp. salmonicida	1141132
+256	Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Alteromonadaceae; Alteromonas; Alteromonas macleodii str. 'Balearic Sea AD45'	1300004
+257	Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Colwelliaceae; Colwellia; Colwellia psychrerythraea 34H	765765
+258	Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Colwelliaceae; Thalassotalea; Thalassotalea loyana	469660
+259	Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Idiomarinaceae; Idiomarinaceae bacterium N2-2	1536592
+260	Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Pseudoalteromonadaceae; Pseudoalteromonas; Pseudoalteromonas espejiana	10661
+261	Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Pseudoalteromonadaceae; Pseudoalteromonas; Pseudoalteromonas marina	1316739
+262	Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Pseudoalteromonadaceae; Pseudoalteromonas; Pseudoalteromonas sp. H105	877240
+263	Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Pseudoalteromonadaceae; Pseudoalteromonas; Pseudoalteromonas sp. YD6	754052
+264	Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Shewanellaceae; Shewanella; Shewanella sp. 4	1458859
+265	Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Shewanellaceae; Shewanella; Shewanella sp. 40	1458860
+266	Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Shewanellaceae; Shewanella; Shewanella sp. 41	1458861
+267	Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Shewanellaceae; Shewanella; Shewanella sp. 49	1458863
+268	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales	39804:1041524:1673871
+269	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae	1206300:1206313:67571
+270	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Candidatus Hamiltonella; Candidatus Hamiltonella defensa	340054
+271	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Citrobacter	1701810
+272	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Citrobacter; Citrobacter freundii	1540096:1527524:1540094:1610508:1540095:1675603
+273	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Citrobacter; Citrobacter rodentium	1455076
+274	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Citrobacter; Citrobacter sp. TM1552	1622234
+275	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Cronobacter	1684115
+276	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Cronobacter; Cronobacter sakazakii	984175:1162295:1264737:1141136:1141137:1162290:1141138:1195085:1141135
+277	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Cronobacter; Cronobacter sakazakii ES15	1168280
+278	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Dickeya	1477406
+279	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Edwardsiella; Edwardsiella ictaluri	1325372:1608310
+280	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Edwardsiella; Edwardsiella tarda	1264700:1244856
+281	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Enterobacter; Enterobacter aerogenes	1701257:1587520
+282	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Enterobacter; Enterobacter cloacae	1455074:1636314
+283	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Erwinia; Erwinia amylovora	557393:1051676:947843:1564096:1429767:1051673:1401669:1429768:1051675
+284	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Erwinia; Erwinia pyrifoliae	1131315
+285	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Erwinia; Erwinia sp.	1407608
+286	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia	1720500:1141519
+287	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli	414970:697227:1572753:329381:532074:1649239:10713:12355:10693:700939:1519788:1567029:29252:1147153:624134:1391224:1720494:10849:491003:1147155:1495285:1141140:1567004:1054461:1391223:1141139:45406:1604355:1436889:329853:293178:665033:511969:50948:1147154:532076:1720495:1720504:1054480:1567486:698487:355246:490103:669875:12353:37554:10870:344022:1141141:1598146:1052121:329855:1147148:1340750:1567027:432198:10869:1216926:1147146:10867:1237159:374844:1458848:10726:379329:10678:10864:1147147:39803:10742:451705:1131317:1567026:1147151:948870:1112008:1147145:1468411:1604356:1054834:10677:1147149:1239384:1147144:10868:103807:10848:1147142
+288	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli B	69609:1555238:1430444:36339
+289	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli C	374840
+290	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli CFT073	1048207
+291	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli J53	1235640
+292	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli K-12	576789:10845:1610838:576790:448384:1610836:10752:1536597
+293	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli O103:H25	1124654
+294	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli O104:H4	1222338
+295	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli O104:H4 str. CB13374	1150869
+296	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli O157	1273738
+297	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli O157:H7	1498170:97081:1434323:343516:66711:564886:1527519:1204523:1527531:1204521:1446489:1495286:563769:576791:936054:337828:866553:1204522:1446490:1416031
+298	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli O157:H7 str. EDL933	10730
+299	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli PA2	1660365
+300	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli W	103216
+301	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli str. K-12 substr. MG1655	1327956:1718606
+302	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Klebsiella	1698360
+303	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Klebsiella; Klebsiella oxytoca	255431
+304	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Klebsiella; Klebsiella pneumoniae	1610834:1647374:1236000:1439894:1129147:1206545:1610829:1416011:1747282:1671396:1719140:1675607:674082
+305	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Klebsiella; Klebsiella pneumoniae subsp. pneumoniae	1647408
+306	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Klebsiella; Klebsiella sp. 390	532077
+307	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Kluyvera; Kluyvera cryocrescens	47049
+308	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Lelliottia; Lelliottia sp. GL2	1542498
+309	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Pantoea; Pantoea agglomerans	881915
+310	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Pectobacterium	1429794
+311	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Pectobacterium; Pectobacterium atrosepticum SCRI1043	1116482
+312	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Pectobacterium; Pectobacterium carotovorum subsp. carotovorum	1217810:1399915
+313	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Proteus; Proteus mirabilis	1636249:1560282:1357704:1560283:1560284
+314	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Providencia; Providencia stuartii MRSN 2154	1235559
+315	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella	1168548:1168549:1446492:1204529:77775:12407
+316	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella enterica	1087482:329864:215158:1541887:1611545
+317	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella enterica subsp. diarizonae	1647463:1647458
+318	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella enterica subsp. enterica serovar Anatum	590739:348058
+319	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella enterica subsp. enterica serovar Dublin	1173754:1173761
+320	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella enterica subsp. enterica serovar Enteritidis	1465618:1406794:1465613:424947:1340534:889338:1115478
+321	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella enterica subsp. enterica serovar Gallinarum	1325963
+322	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella enterica subsp. enterica serovar Newport	1173769
+323	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella enterica subsp. enterica serovar Paratyphi A	1540823
+324	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella enterica subsp. enterica serovar Typhi	866889:867696
+325	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella enterica subsp. enterica serovar Typhimurium	175950:1540099:1108865:1125653:454798:293644:979726:1406795:1445860:977927:1147140:173443:1173757:194966
+326	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella enterica subsp. enterica serovar Typhimurium str. DT104	221029
+327	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	129861:194701:1177632:1113547:129862
+328	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella enterica subsp. salamae	1647455:1647465
+329	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella sp.	1141134:1080800
+330	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Serratia; Serratia marcescens	1282995
+331	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Serratia; Serratia sp.	1262513
+332	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Shigella; Shigella boydii	637730
+333	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Shigella; Shigella flexneri	55884:1541825:1572702:66284:1315956:1567022:1524881:1002724:1225789
+334	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Shigella; Shigella flexneri 2a	1498227
+335	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Shigella; Shigella sonnei	1109721:1357825:1551641:1675531
+336	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Sodalis; Sodalis glossinidius str. 'morsitans'	373126
+337	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Yersinia; Yersinia enterocolitica	1735591:1675027:1536611:1206559:331278:1206558
+338	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Yersinia; Yersinia enterocolitica -type O:3-	110457
+339	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Yersinia; Yersinia pestis	1206560:928293:369257:227940
+340	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Yersinia; Yersinia pseudotuberculosis	1351740
+341	Bacteria; Proteobacteria; Gammaproteobacteria; Oceanospirillales; Halomonadaceae; Halomonas; Halomonas aquamarina	499235
+342	Bacteria; Proteobacteria; Gammaproteobacteria; Oceanospirillales; Halomonadaceae; Salicola	754067
+343	Bacteria; Proteobacteria; Gammaproteobacteria; Oceanospirillales; Oceanospirillaceae; Marinomonas	1176423
+344	Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales; Pasteurellaceae; Aggregatibacter; Aggregatibacter actinomycetemcomitans	230158
+345	Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales; Pasteurellaceae; Aggregatibacter; Aggregatibacter actinomycetemcomitans D11S-1	683735
+346	Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales; Pasteurellaceae; Haemophilus; Haemophilus influenzae	157239:10690
+347	Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales; Pasteurellaceae; Mannheimia; Mannheimia haemolytica	1572743:1572750:1572747:390978
+348	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter	762660
+349	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter baumannii	1560342:691318:1049283:1735582:1273713:1406779:1481187:1701808:1481186:1701807:1505225:1708400
+350	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter genomosp. 16BJ	154784
+351	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter johnsonii	760732:760939
+352	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter nosocomialis M2	1406780
+353	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter sp.	1628720
+354	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Psychrobacter; Psychrobacter sp. MV2	1071177
+355	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas	12024:1678082
+356	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; PPseudomonas syringae	120086:161736:593131:1500757
+357	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; PPseudomonas syringae pv. actinidiae	1755692:1500756
+358	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; PPseudomonas syringae pv. actinidiae ICMP 18800	1458843
+359	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas aeruginosa	1141525:462590:1462608:1175659:538398:10708:1175657:1566995:496396:757342:204270:280701:31535:1231048:1589273:389469:347328:1542092:627480:1129145:1234701:10872:1542090:1743016:347329:1175662:1548901:582382:273133:347325:347327:1476391:1262514:998086:35343:1476390:270673:347326:549446:1406974:1449437:1718273:1429758:504346:1548917:1536596
+360	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas aeruginosa CHA	1327965
+361	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas aeruginosa PA14	1223260:1225791:505291:1223259:505292:1223261:1225792
+362	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas aeruginosa PAK	1348912:1327966:981431:743813
+363	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas aeruginosa PAO1	581037:1640972:655097:1091556:1225790:1640970:484896:1204517:386793:484895:1640973:1530400
+364	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas fluorescens	942165:1235661:1124849
+365	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas plecoglossicida	1279082:1279083
+366	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas putida	1114179:197783:1235689:988656
+367	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas tolaasii	1100790:1080237
+368	Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Aliivibrio; Aliivibrio fischeri	573171
+369	Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Salinivibrio; Salinivibrio costicola	1161935
+370	Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio	329886
+371	Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio alginolyticus	1461743:1151014
+372	Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio cholerae	1127518:1558467:642111:260372:141904:10689:1589298:260827:979525:10658:223524:1558469:1500713:979533
+373	Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio cholerae O1	644563
+374	Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio cholerae O139	83201:70203:181604:70734
+375	Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio harveyi	207597
+376	Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio natriegens	115992:754058
+377	Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio parahaemolyticus	1414739:1229755:127508:75320:127509:631719:194802:1233488:127507:261726
+378	Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio parahaemolyticus RIMD 2210633	754074:754072
+379	Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio pelagius	310539
+380	Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio sp.	700512:754075
+381	Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio sp. YD21	754049
+382	Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio sp. YD38	754051
+383	Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio splendidus	573173:573174
+384	Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio vulnificus	1451050
+385	Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Stenotrophomonas; Stenotrophomonas maltophilia	1343494:573591:1642663:1211280:1168563:1027253
+386	Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xanthomonas; Xanthomonas campestris pv. pelargonii	322855
+387	Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xanthomonas; Xanthomonas citri	1188795:1188794
+388	Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xanthomonas; Xanthomonas oryzae	470314:331627:329254
+389	Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xanthomonas; Xanthomonas vesicatoria	1129194
+390	Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xylella; Xylella fastidiosa	670252:1415146
+391	Bacteria; Tenericutes; Mollicutes; Acholeplasmatales; Acholeplasmataceae; Acholeplasma; Acholeplasma laidlawii	10876
+392	Bacteria; Tenericutes; Mollicutes; Entomoplasmatales; Spiroplasmataceae; Spiroplasma	93224
+393	Bacteria; Tenericutes; Mollicutes; Entomoplasmatales; Spiroplasmataceae; Spiroplasma; Spiroplasma citri	10854
+394	Bacteria; Tenericutes; Mollicutes; Entomoplasmatales; Spiroplasmataceae; Spiroplasma; Spiroplasma melliferum	10855:185959
+395	Bacteria; Tenericutes; Mollicutes; Mycoplasmatales; Mycoplasmataceae; Mycoplasma	280702
+396	Bacteria; Tenericutes; Mollicutes; Mycoplasmatales; Mycoplasmataceae; Mycoplasma; Mycoplasma arthritidis	75590

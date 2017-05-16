@@ -1,0 +1,651 @@
+347	root; Bacteria; Proteobacteria; Alphaproteobacteria; Caulobacterales; Caulobacteraceae; Caulobacter; Caulobacter vibrioides	Caulobacter vibrioides
+46	root; Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Halorubrum; Halorubrum coriense	Halorubrum coriense
+370	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Sinorhizobium; Sinorhizobium meliloti	Sinorhizobium meliloti
+602	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas plecoglossicida	Pseudomonas plecoglossicida
+562	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Yersinia; Yersinia enterocolitica -type O:3-	Yersinia enterocolitica -type O:3-
+386	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Roseobacter; Roseobacter denitrificans OCh 114	Roseobacter denitrificans OCh 114
+168	root; Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Polaribacter	Polaribacter
+445	root; Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae; Helicobacter; Helicobacter pylori	Helicobacter pylori
+116	root; Bacteria; Actinobacteria; Actinobacteria; Micromonosporales; Micromonosporaceae	Micromonosporaceae
+443	root; Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae	Helicobacteraceae
+577	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales; Pasteurellaceae; Haemophilus	Haemophilus
+339	root; Bacteria; Proteobacteria	Proteobacteria
+362	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Agrobacterium; Agrobacterium sp. H13-3	Agrobacterium sp. H13-3
+91	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Nocardiaceae	Nocardiaceae
+460	root; Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Colwelliaceae	Colwelliaceae
+316	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus pneumoniae D39	Streptococcus pneumoniae D39
+388	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Ruegeria; Ruegeria pomeroyi DSS-3	Ruegeria pomeroyi DSS-3
+365	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Candidatus Liberibacter; Candidatus Liberibacter asiaticus	Candidatus Liberibacter asiaticus
+646	root; Bacteria; Tenericutes; Mollicutes; Entomoplasmatales; Spiroplasmataceae; Spiroplasma; Spiroplasma citri	Spiroplasma citri
+288	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus gasseri ADH	Lactobacillus gasseri ADH
+232	root; Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus cereus ATCC 14579	Bacillus cereus ATCC 14579
+537	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella enterica subsp. diarizonae	Salmonella enterica subsp. diarizonae
+395	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodospirillales; Rhodospirillaceae; Azospirillum; Azospirillum brasilense	Azospirillum brasilense
+98	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Tsukamurellaceae; Tsukamurella	Tsukamurella
+463	root; Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Colwelliaceae; Thalassotalea	Thalassotalea
+162	root; Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Croceibacter	Croceibacter
+586	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter johnsonii	Acinetobacter johnsonii
+526	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Pantoea	Pantoea
+123	root; Bacteria; Actinobacteria; Actinobacteria; Streptomycetales	Streptomycetales
+290	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus johnsonii	Lactobacillus johnsonii
+113	root; Bacteria; Actinobacteria; Actinobacteria; Micrococcales; Micrococcaceae; Arthrobacter; Arthrobacter sp.	Arthrobacter sp.
+490	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Dickeya	Dickeya
+94	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Nocardiaceae; Rhodococcus	Rhodococcus
+396	root; Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales	Sphingomonadales
+640	root; Bacteria; Tenericutes; Mollicutes; Acholeplasmatales; Acholeplasmataceae	Acholeplasmataceae
+206	root; Bacteria; Cyanobacteria; Cyanobacteria; Prochlorales	Prochlorales
+499	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Erwinia; Erwinia pyrifoliae	Erwinia pyrifoliae
+470	root; Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Pseudoalteromonadaceae; Pseudoalteromonas; Pseudoalteromonas marina	Pseudoalteromonas marina
+605	root; Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales	Vibrionales
+319	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus salivarius 57.I	Streptococcus salivarius 57.I
+307	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Lactococcus; Lactococcus lactis subsp. cremoris	Lactococcus lactis subsp. cremoris
+346	root; Bacteria; Proteobacteria; Alphaproteobacteria; Caulobacterales; Caulobacteraceae; Caulobacter; Caulobacter crescentus CB15	Caulobacter crescentus CB15
+301	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae; Leuconostoc; Leuconostoc pseudomesenteroides	Leuconostoc pseudomesenteroides
+13	root; Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Acidianus; Acidianus brierleyi	Acidianus brierleyi
+293	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus rhamnosus	Lactobacillus rhamnosus
+568	root; Bacteria; Proteobacteria; Gammaproteobacteria; Oceanospirillales; Halomonadaceae; Halomonas; Halomonas aquamarina	Halomonas aquamarina
+299	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae; Leuconostoc; Leuconostoc mesenteroides	Leuconostoc mesenteroides
+591	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae	Pseudomonadaceae
+510	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli O104:H4 str. CB13374	Escherichia coli O104:H4 str. CB13374
+256	root; Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae; Brevibacillus; Brevibacillus laterosporus	Brevibacillus laterosporus
+292	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus plantarum	Lactobacillus plantarum
+141	root; Bacteria; Bacteroidetes; Bacteroidetes; Bacteroidetes Order II. Incertae sedis	Bacteroidetes Order II. Incertae sedis
+449	root; Bacteria; Proteobacteria; Gammaproteobacteria; Aeromonadales	Aeromonadales
+337	root; Bacteria; Firmicutes; Clostridia; Thermoanaerobacterales; Thermoanaerobacterales Family III. Incertae Sedis; Thermoanaerobacterium	Thermoanaerobacterium
+311	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus mitis	Streptococcus mitis
+298	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae; Leuconostoc	Leuconostoc
+454	root; Bacteria; Proteobacteria; Gammaproteobacteria; Aeromonadales; Aeromonadaceae; Aeromonas; Aeromonas salmonicida	Aeromonas salmonicida
+621	root; Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio sp.	Vibrio sp.
+58	root; Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanothermobacter	Methanothermobacter
+80	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Gordoniaceae; Gordonia; Gordonia malaquae	Gordonia malaquae
+517	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Klebsiella	Klebsiella
+161	root; Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Cellulophaga; Cellulophaga sp. MM#3	Cellulophaga sp. MM#3
+178	root; Bacteria; Chlamydiae; Chlamydiia; Chlamydiales; Chlamydiaceae; Chlamydia; Chlamydophila pneumoniae AR39	Chlamydophila pneumoniae AR39
+627	root; Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae	Xanthomonadaceae
+201	root; Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Oscillatoriales	Oscillatoriales
+391	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Sulfitobacter; Sulfitobacter sp. EE-36	Sulfitobacter sp. EE-36
+614	root; Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio cholerae O1	Vibrio cholerae O1
+379	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Paracoccus	Paracoccus
+426	root; Bacteria; Proteobacteria; Deltaproteobacteria	Deltaproteobacteria
+5	root; Archaea; Crenarchaeota; Thermoprotei	Thermoprotei
+246	root; Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Geobacillus; Geobacillus sp. E263	Geobacillus sp. E263
+333	root; Bacteria; Firmicutes; Clostridia; Clostridiales; Peptostreptococcaceae; Peptoclostridium	Peptoclostridium
+12	root; Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Acidianus	Acidianus
+632	root; Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xanthomonas; Xanthomonas citri	Xanthomonas citri
+71	root; Bacteria; Actinobacteria; Actinobacteria; Actinomycetales; Actinomycetaceae; Actinomyces	Actinomyces
+351	root; Bacteria; Proteobacteria; Alphaproteobacteria; Pelagibacterales; Pelagibacteraceae; Candidatus Pelagibacter; Candidatus Pelagibacter ubique HTCC1062	Candidatus Pelagibacter ubique HTCC1062
+303	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae; Weissella; Weissella cibaria	Weissella cibaria
+132	root; Bacteria; Actinobacteria; Actinobacteria; Streptomycetales; Streptomycetaceae; Streptomyces; Streptomyces venezuelae	Streptomyces venezuelae
+243	root; Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Geobacillus	Geobacillus
+22	root; Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus; Sulfolobus sp.	Sulfolobus sp.
+135	root; Bacteria; Aquificae; Aquificae	Aquificae
+429	root; Bacteria; Proteobacteria; Deltaproteobacteria; Bdellovibrionales; Bdellovibrionaceae; Bdellovibrio	Bdellovibrio
+39	root; Archaea; Euryarchaeota; Halobacteria; Haloferacales	Haloferacales
+525	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Lelliottia; Lelliottia sp. GL2	Lelliottia sp. GL2
+229	root; Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus anthracis	Bacillus anthracis
+528	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Pectobacterium	Pectobacterium
+208	root; Bacteria; Cyanobacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus	Prochlorococcus
+72	root; Bacteria; Actinobacteria; Actinobacteria; Actinomycetales; Actinomycetaceae; Actinomyces; Actinomyces naeslundii	Actinomyces naeslundii
+260	root; Bacteria; Firmicutes; Bacilli; Bacillales; Sporolactobacillaceae; Bacillus	Bacillus
+221	root; Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae; Thermus	Thermus
+581	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales	Pseudomonadales
+43	root; Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Halogeometricum	Halogeometricum
+406	root; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia	Burkholderia
+457	root; Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Alteromonadaceae	Alteromonadaceae
+31	root; Archaea; Euryarchaeota; Halobacteria; Halobacteriales	Halobacteriales
+532	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Proteus; Proteus mirabilis	Proteus mirabilis
+242	root; Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus weihenstephanensis	Bacillus weihenstephanensis
+57	root; Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae	Methanobacteriaceae
+279	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae; Enterococcus; Enterococcus faecium	Enterococcus faecium
+515	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli W	Escherichia coli W
+430	root; Bacteria; Proteobacteria; Deltaproteobacteria; Bdellovibrionales; Bdellovibrionaceae; Bdellovibrio; Bdellovibrio bacteriovorus	Bdellovibrio bacteriovorus
+225	root; Bacteria; Firmicutes; Bacilli	Bacilli
+550	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Serratia	Serratia
+373	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Celeribacter	Celeribacter
+608	root; Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Aliivibrio; Aliivibrio fischeri	Aliivibrio fischeri
+617	root; Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio natriegens	Vibrio natriegens
+478	root; Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Shewanellaceae; Shewanella; Shewanella sp. 49	Shewanella sp. 49
+247	root; Bacteria; Firmicutes; Bacilli; Bacillales; Listeriaceae	Listeriaceae
+217	root; Bacteria; Deinococcus-Thermus	Deinococcus-Thermus
+77	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Corynebacteriaceae; Corynebacterium; [Brevibacterium] flavum	[Brevibacterium] flavum
+103	root; Bacteria; Actinobacteria; Actinobacteria; Micrococcales; Intrasporangiaceae; Tetrasphaera	Tetrasphaera
+593	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; PPseudomonas syringae	PPseudomonas syringae
+589	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Psychrobacter	Psychrobacter
+432	root; Bacteria; Proteobacteria; Deltaproteobacteria; Myxococcales; Cystobacterineae	Cystobacterineae
+595	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; PPseudomonas syringae pv. actinidiae ICMP 18800	PPseudomonas syringae pv. actinidiae ICMP 18800
+433	root; Bacteria; Proteobacteria; Deltaproteobacteria; Myxococcales; Cystobacterineae; Myxococcaceae	Myxococcaceae
+38	root; Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Haloarcula; Haloarcula vallismortis	Haloarcula vallismortis
+82	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Gordoniaceae; Gordonia; Gordonia sp.	Gordonia sp.
+588	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter sp.	Acinetobacter sp.
+405	root; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae	Burkholderiaceae
+28	root; Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Thermoproteus; Thermoproteus tenax	Thermoproteus tenax
+186	root; Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales	Chroococcales
+2	root; Bacteria	Bacteria
+173	root; Bacteria; Chlamydiae; Chlamydiia; Chlamydiales	Chlamydiales
+220	root; Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae	Thermaceae
+25	root; Archaea; Crenarchaeota; Thermoprotei; Thermoproteales	Thermoproteales
+596	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas aeruginosa	Pseudomonas aeruginosa
+119	root; Bacteria; Actinobacteria; Actinobacteria; Propionibacteriales	Propionibacteriales
+378	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Loktanella; Loktanella sp. CB 2051	Loktanella sp. CB 2051
+50	root; Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Halorubrum; Halorubrum sp. s5a-3	Halorubrum sp. s5a-3
+102	root; Bacteria; Actinobacteria; Actinobacteria; Micrococcales; Intrasporangiaceae	Intrasporangiaceae
+590	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Psychrobacter; Psychrobacter sp. MV2	Psychrobacter sp. MV2
+417	root; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Ralstonia; Ralstonia solanacearum	Ralstonia solanacearum
+52	root; Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae	Natrialbaceae
+304	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae	Streptococcaceae
+434	root; Bacteria; Proteobacteria; Deltaproteobacteria; Myxococcales; Cystobacterineae; Myxococcaceae; Myxococcus	Myxococcus
+377	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Loktanella	Loktanella
+124	root; Bacteria; Actinobacteria; Actinobacteria; Streptomycetales; Streptomycetaceae	Streptomycetaceae
+329	root; Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae; Clostridium; Clostridium tetani	Clostridium tetani
+160	root; Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Cellulophaga; Cellulophaga baltica NN016038	Cellulophaga baltica NN016038
+412	root; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; Burkholderia pseudomallei	Burkholderia pseudomallei
+216	root; Bacteria; Cyanobacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Prochlorococcus marinus subsp. pastoris str. CCMP1986	Prochlorococcus marinus subsp. pastoris str. CCMP1986
+166	root; Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Flavobacterium; Flavobacterium sp.	Flavobacterium sp.
+271	root; Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus; Staphylococcus pasteuri	Staphylococcus pasteuri
+104	root; Bacteria; Actinobacteria; Actinobacteria; Micrococcales; Intrasporangiaceae; Tetrasphaera; Tetrasphaera jenkinsii	Tetrasphaera jenkinsii
+3	root; Archaea	Archaea
+361	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Agrobacterium	Agrobacterium
+302	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae; Weissella	Weissella
+491	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Edwardsiella	Edwardsiella
+641	root; Bacteria; Tenericutes; Mollicutes; Acholeplasmatales; Acholeplasmataceae; Acholeplasma	Acholeplasma
+383	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Rhodobacter; Rhodobacter capsulatus YW1	Rhodobacter capsulatus YW1
+483	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Citrobacter	Citrobacter
+240	root; Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus thuringiensis serovar kurstaki	Bacillus thuringiensis serovar kurstaki
+65	root; Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus	Thermococcus
+527	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Pantoea; Pantoea agglomerans	Pantoea agglomerans
+559	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Sodalis; Sodalis glossinidius str. 'morsitans'	Sodalis glossinidius str. 'morsitans'
+177	root; Bacteria; Chlamydiae; Chlamydiia; Chlamydiales; Chlamydiaceae; Chlamydia; Chlamydia psittaci	Chlamydia psittaci
+251	root; Bacteria; Firmicutes; Bacilli; Bacillales; Listeriaceae; Listeria; Listeria monocytogenes	Listeria monocytogenes
+156	root; Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Cellulophaga	Cellulophaga
+29	root; Archaea; Euryarchaeota	Euryarchaeota
+324	root; Bacteria; Firmicutes; Clostridia; Clostridiales	Clostridiales
+440	root; Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Campylobacteraceae; Campylobacter; Campylobacter jejuni	Campylobacter jejuni
+85	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae; Mycobacterium	Mycobacterium
+616	root; Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio harveyi	Vibrio harveyi
+564	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Yersinia; Yersinia pseudotuberculosis	Yersinia pseudotuberculosis
+40	root; Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae	Haloferacaceae
+572	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales	Pasteurellales
+541	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella enterica subsp. enterica serovar Gallinarum	Salmonella enterica subsp. enterica serovar Gallinarum
+9	root; Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae; Aeropyrum; Aeropyrum pernix K1	Aeropyrum pernix K1
+138	root; Bacteria; Aquificae; Aquificae; Aquificales; Aquificaceae; Hydrogenobaculum	Hydrogenobaculum
+521	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Klebsiella; Klebsiella sp. 390	Klebsiella sp. 390
+503	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli B	Escherichia coli B
+584	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter baumannii	Acinetobacter baumannii
+552	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Serratia; Serratia sp.	Serratia sp.
+254	root; Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae	Paenibacillaceae
+543	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella enterica subsp. enterica serovar Paratyphi A	Salmonella enterica subsp. enterica serovar Paratyphi A
+502	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli	Escherichia coli
+84	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae	Mycobacteriaceae
+184	root; Bacteria; Cyanobacteria; Cyanobacteria; Nostocales; Nostocaceae; Anabaena; Anabaena variabilis	Anabaena variabilis
+81	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Gordoniaceae; Gordonia; Gordonia rubripertincta	Gordonia rubripertincta
+468	root; Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Pseudoalteromonadaceae; Pseudoalteromonas	Pseudoalteromonas
+563	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Yersinia; Yersinia pestis	Yersinia pestis
+438	root; Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Campylobacteraceae	Campylobacteraceae
+327	root; Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae; Clostridium; Clostridium perfringens	Clostridium perfringens
+295	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Pediococcus	Pediococcus
+224	root; Bacteria; Firmicutes	Firmicutes
+402	root; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae	Alcaligenaceae
+354	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Brucella	Brucella
+27	root; Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Thermoproteus	Thermoproteus
+394	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodospirillales; Rhodospirillaceae; Azospirillum	Azospirillum
+32	root; Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae	Halobacteriaceae
+282	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus brevis	Lactobacillus brevis
+197	root; Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechococcus; Synechococcus sp. WH 8018	Synechococcus sp. WH 8018
+322	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus thermophilus DSM 20617	Streptococcus thermophilus DSM 20617
+83	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Gordoniaceae; Gordonia; Gordonia terrae	Gordonia terrae
+109	root; Bacteria; Actinobacteria; Actinobacteria; Micrococcales; Microbacteriaceae; Microbacterium; Microbacterium nematophilum	Microbacterium nematophilum
+321	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus thermophilus	Streptococcus thermophilus
+501	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia	Escherichia
+234	root; Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus pumilus	Bacillus pumilus
+548	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella enterica subsp. salamae	Salmonella enterica subsp. salamae
+480	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae	Enterobacteriaceae
+198	root; Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechococcus; Synechococcus sp. WH 8101	Synechococcus sp. WH 8101
+419	root; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Delftia	Delftia
+315	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus pneumoniae	Streptococcus pneumoniae
+536	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella enterica	Salmonella enterica
+317	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus pyogenes	Streptococcus pyogenes
+401	root; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales	Burkholderiales
+190	root; Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechococcus; Synechococcus sp.	Synechococcus sp.
+583	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter	Acinetobacter
+252	root; Bacteria; Firmicutes; Bacilli; Bacillales; Listeriaceae; Listeria; Listeria monocytogenes FSL J1-208	Listeria monocytogenes FSL J1-208
+255	root; Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae; Brevibacillus	Brevibacillus
+565	root; Bacteria; Proteobacteria; Gammaproteobacteria; Oceanospirillales	Oceanospirillales
+272	root; Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus; Staphylococcus saprophyticus	Staphylococcus saprophyticus
+422	root; Bacteria; Proteobacteria; Betaproteobacteria; Neisseriales	Neisseriales
+20	root; Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus; Sulfolobus solfataricus	Sulfolobus solfataricus
+185	root; Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae	Oscillatoriophycideae
+88	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae; Mycobacterium; Mycobacterium smegmatis str. MC2 155	Mycobacterium smegmatis str. MC2 155
+281	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus	Lactobacillus
+464	root; Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Colwelliaceae; Thalassotalea; Thalassotalea loyana	Thalassotalea loyana
+238	root; Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus thuringiensis	Bacillus thuringiensis
+509	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli O104:H4	Escherichia coli O104:H4
+79	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Gordoniaceae; Gordonia	Gordonia
+286	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus fermentum	Lactobacillus fermentum
+382	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Rhodobacter; Rhodobacter capsulatus SB 1003	Rhodobacter capsulatus SB 1003
+636	root; Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xylella; Xylella fastidiosa	Xylella fastidiosa
+313	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus oralis	Streptococcus oralis
+648	root; Bacteria; Tenericutes; Mollicutes; Mycoplasmatales	Mycoplasmatales
+188	root; Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Microcystis; Microcystis aeruginosa	Microcystis aeruginosa
+539	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella enterica subsp. enterica serovar Dublin	Salmonella enterica subsp. enterica serovar Dublin
+516	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli str. K-12 substr. MG1655	Escherichia coli str. K-12 substr. MG1655
+639	root; Bacteria; Tenericutes; Mollicutes; Acholeplasmatales	Acholeplasmatales
+270	root; Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus; Staphylococcus hominis	Staphylococcus hominis
+215	root; Bacteria; Cyanobacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Prochlorococcus marinus subsp. marinus str. CCMP1375	Prochlorococcus marinus subsp. marinus str. CCMP1375
+189	root; Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechococcus	Synechococcus
+53	root; Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae; Natrialba	Natrialba
+235	root; Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus pumilus BL8	Bacillus pumilus BL8
+619	root; Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio parahaemolyticus RIMD 2210633	Vibrio parahaemolyticus RIMD 2210633
+448	root; Bacteria; Proteobacteria; Gammaproteobacteria	Gammaproteobacteria
+76	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Corynebacteriaceae; Corynebacterium; Corynebacterium glutamicum	Corynebacterium glutamicum
+89	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae; Mycobacterium; Mycobacterium tuberculosis	Mycobacterium tuberculosis
+37	root; Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Haloarcula; Haloarcula sinaiiensis	Haloarcula sinaiiensis
+411	root; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; Burkholderia cepacia	Burkholderia cepacia
+158	root; Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Cellulophaga; Cellulophaga baltica 13	Cellulophaga baltica 13
+14	root; Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Acidianus; Acidianus convivator	Acidianus convivator
+620	root; Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio pelagius	Vibrio pelagius
+357	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Phyllobacteriaceae	Phyllobacteriaceae
+352	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales	Rhizobiales
+618	root; Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio parahaemolyticus	Vibrio parahaemolyticus
+342	root; Bacteria; Proteobacteria; Alphaproteobacteria; Candidatus Puniceispirillum; Candidatus Puniceispirillum marinum IMCC1322	Candidatus Puniceispirillum marinum IMCC1322
+323	root; Bacteria; Firmicutes; Clostridia	Clostridia
+54	root; Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae; Natrialba; Natrialba magadii	Natrialba magadii
+176	root; Bacteria; Chlamydiae; Chlamydiia; Chlamydiales; Chlamydiaceae; Chlamydia; Chlamydia pecorum	Chlamydia pecorum
+151	root; Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; Parabacteroides	Parabacteroides
+635	root; Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xylella	Xylella
+461	root; Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Colwelliaceae; Colwellia	Colwellia
+387	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Ruegeria	Ruegeria
+230	root; Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus anthracis str. Sterne	Bacillus anthracis str. Sterne
+66	root; Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus; Thermococcus prieurii	Thermococcus prieurii
+375	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Dinoroseobacter	Dinoroseobacter
+16	root; Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Acidianus; Acidianus sp. Acii26	Acidianus sp. Acii26
+566	root; Bacteria; Proteobacteria; Gammaproteobacteria; Oceanospirillales; Halomonadaceae	Halomonadaceae
+366	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium	Rhizobium
+651	root; Bacteria; Tenericutes; Mollicutes; Mycoplasmatales; Mycoplasmataceae; Mycoplasma; Mycoplasma arthritidis	Mycoplasma arthritidis
+399	root; Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales; Sphingomonadaceae; Sphingomonas; Sphingomonas paucimobilis	Sphingomonas paucimobilis
+408	root; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; Burkholderia cenocepacia	Burkholderia cenocepacia
+261	root; Bacteria; Firmicutes; Bacilli; Bacillales; Sporolactobacillaceae; Bacillus; Bacillus clarkii	Bacillus clarkii
+628	root; Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Stenotrophomonas	Stenotrophomonas
+534	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Providencia; Providencia stuartii MRSN 2154	Providencia stuartii MRSN 2154
+268	root; Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus; Staphylococcus aureus subsp. aureus RN4220	Staphylococcus aureus subsp. aureus RN4220
+78	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Gordoniaceae	Gordoniaceae
+609	root; Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Salinivibrio	Salinivibrio
+164	root; Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Flavobacterium	Flavobacterium
+506	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli J53	Escherichia coli J53
+435	root; Bacteria; Proteobacteria; Deltaproteobacteria; Myxococcales; Cystobacterineae; Myxococcaceae; Myxococcus; Myxococcus xanthus	Myxococcus xanthus
+369	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Sinorhizobium	Sinorhizobium
+207	root; Bacteria; Cyanobacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae	Prochlorococcaceae
+380	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Paracoccus; Paracoccus marcusii	Paracoccus marcusii
+381	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Rhodobacter	Rhodobacter
+105	root; Bacteria; Actinobacteria; Actinobacteria; Micrococcales; Microbacteriaceae	Microbacteriaceae
+642	root; Bacteria; Tenericutes; Mollicutes; Acholeplasmatales; Acholeplasmataceae; Acholeplasma; Acholeplasma laidlawii	Acholeplasma laidlawii
+624	root; Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio splendidus	Vibrio splendidus
+291	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus paracasei	Lactobacillus paracasei
+41	root; Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Haloferax	Haloferax
+372	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae	Rhodobacteraceae
+371	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales	Rhodobacterales
+95	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Nocardiaceae; Rhodococcus; Rhodococcus erythropolis	Rhodococcus erythropolis
+218	root; Bacteria; Deinococcus-Thermus; Deinococci	Deinococci
+171	root; Bacteria; Chlamydiae	Chlamydiae
+121	root; Bacteria; Actinobacteria; Actinobacteria; Propionibacteriales; Propionibacteriaceae; Propionibacterium	Propionibacterium
+398	root; Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales; Sphingomonadaceae; Sphingomonas	Sphingomonas
+376	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Dinoroseobacter; Dinoroseobacter shibae DFL 12 = DSM 16493	Dinoroseobacter shibae DFL 12 = DSM 16493
+574	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales; Pasteurellaceae; Aggregatibacter	Aggregatibacter
+551	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Serratia; Serratia marcescens	Serratia marcescens
+227	root; Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae	Bacillaceae
+637	root; Bacteria; Tenericutes	Tenericutes
+524	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Lelliottia	Lelliottia
+174	root; Bacteria; Chlamydiae; Chlamydiia; Chlamydiales; Chlamydiaceae	Chlamydiaceae
+486	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Citrobacter; Citrobacter sp. TM1552	Citrobacter sp. TM1552
+47	root; Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Halorubrum; Halorubrum sp. B2-2	Halorubrum sp. B2-2
+183	root; Bacteria; Cyanobacteria; Cyanobacteria; Nostocales; Nostocaceae; Anabaena	Anabaena
+355	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Brucella; Brucella abortus 544	Brucella abortus 544
+275	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae	Enterococcaceae
+431	root; Bacteria; Proteobacteria; Deltaproteobacteria; Myxococcales	Myxococcales
+630	root; Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xanthomonas	Xanthomonas
+546	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella enterica subsp. enterica serovar Typhimurium str. DT104	Salmonella enterica subsp. enterica serovar Typhimurium str. DT104
+504	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli C	Escherichia coli C
+30	root; Archaea; Euryarchaeota; Halobacteria	Halobacteria
+345	root; Bacteria; Proteobacteria; Alphaproteobacteria; Caulobacterales; Caulobacteraceae; Caulobacter	Caulobacter
+45	root; Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Halorubrum	Halorubrum
+425	root; Bacteria; Proteobacteria; Betaproteobacteria; Neisseriales; Chromobacteriaceae; Iodobacter; Iodobacter sp. CdM7	Iodobacter sp. CdM7
+75	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Corynebacteriaceae; Corynebacterium	Corynebacterium
+6	root; Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales	Desulfurococcales
+69	root; Bacteria; Actinobacteria; Actinobacteria; Actinomycetales	Actinomycetales
+492	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Edwardsiella; Edwardsiella ictaluri	Edwardsiella ictaluri
+33	root; Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Haloarcula	Haloarcula
+34	root; Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Haloarcula; Haloarcula californiae	Haloarcula californiae
+363	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Agrobacterium; Agrobacterium tumefaciens	Agrobacterium tumefaciens
+530	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Pectobacterium; Pectobacterium carotovorum subsp. carotovorum	Pectobacterium carotovorum subsp. carotovorum
+310	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus gordonii	Streptococcus gordonii
+473	root; Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Shewanellaceae	Shewanellaceae
+368	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium; Rhizobium leguminosarum	Rhizobium leguminosarum
+545	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella enterica subsp. enterica serovar Typhimurium	Salmonella enterica subsp. enterica serovar Typhimurium
+92	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Nocardiaceae; Nocardia	Nocardia
+519	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Klebsiella; Klebsiella pneumoniae	Klebsiella pneumoniae
+356	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Brucella; Brucella melitensis bv. 1 str. 16M	Brucella melitensis bv. 1 str. 16M
+148	root; Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Bacteroidaceae; Bacteroides	Bacteroides
+611	root; Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio	Vibrio
+495	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Enterobacter; Enterobacter aerogenes	Enterobacter aerogenes
+475	root; Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Shewanellaceae; Shewanella; Shewanella sp. 4	Shewanella sp. 4
+35	root; Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Haloarcula; Haloarcula hispanica	Haloarcula hispanica
+129	root; Bacteria; Actinobacteria; Actinobacteria; Streptomycetales; Streptomycetaceae; Streptomyces; Streptomyces flavovirens	Streptomyces flavovirens
+136	root; Bacteria; Aquificae; Aquificae; Aquificales	Aquificales
+335	root; Bacteria; Firmicutes; Clostridia; Thermoanaerobacterales	Thermoanaerobacterales
+575	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales; Pasteurellaceae; Aggregatibacter; Aggregatibacter actinomycetemcomitans	Aggregatibacter actinomycetemcomitans
+56	root; Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales	Methanobacteriales
+11	root; Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae	Sulfolobaceae
+397	root; Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales; Sphingomonadaceae	Sphingomonadaceae
+203	root; Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Oscillatoriales; Leptolyngbya; Leptolyngbya foveolarum	Leptolyngbya foveolarum
+142	root; Bacteria; Bacteroidetes; Bacteroidetes; Bacteroidetes Order II. Incertae sedis; Rhodothermaceae	Rhodothermaceae
+278	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae; Enterococcus; Enterococcus faecalis 62	Enterococcus faecalis 62
+64	root; Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Pyrococcus; Pyrococcus abyssi	Pyrococcus abyssi
+210	root; Bacteria; Cyanobacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Prochlorococcus marinus str. MIT 9303	Prochlorococcus marinus str. MIT 9303
+112	root; Bacteria; Actinobacteria; Actinobacteria; Micrococcales; Micrococcaceae; Arthrobacter	Arthrobacter
+638	root; Bacteria; Tenericutes; Mollicutes	Mollicutes
+111	root; Bacteria; Actinobacteria; Actinobacteria; Micrococcales; Micrococcaceae	Micrococcaceae
+626	root; Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales	Xanthomonadales
+385	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Roseobacter	Roseobacter
+407	root; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; Burkholderia ambifaria	Burkholderia ambifaria
+556	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Shigella; Shigella flexneri 2a	Shigella flexneri 2a
+416	root; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Ralstonia; Ralstonia pickettii	Ralstonia pickettii
+338	root; Bacteria; Firmicutes; Clostridia; Thermoanaerobacterales; Thermoanaerobacterales Family III. Incertae Sedis; Thermoanaerobacterium; Thermoanaerobacterium saccharolyticum JW/SL-YS485	Thermoanaerobacterium saccharolyticum JW/SL-YS485
+248	root; Bacteria; Firmicutes; Bacilli; Bacillales; Listeriaceae; Brochothrix	Brochothrix
+149	root; Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Bacteroidaceae; Bacteroides; Bacteroides fragilis	Bacteroides fragilis
+74	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Corynebacteriaceae	Corynebacteriaceae
+257	root; Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae; Paenibacillus	Paenibacillus
+625	root; Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio vulnificus	Vibrio vulnificus
+650	root; Bacteria; Tenericutes; Mollicutes; Mycoplasmatales; Mycoplasmataceae; Mycoplasma	Mycoplasma
+558	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Sodalis	Sodalis
+167	root; Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Nonlabens	Nonlabens
+209	root; Bacteria; Cyanobacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Prochlorococcus marinus	Prochlorococcus marinus
+211	root; Bacteria; Cyanobacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Prochlorococcus marinus str. MIT 9313	Prochlorococcus marinus str. MIT 9313
+447	root; Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae; Helicobacter; Helicobacter pylori F57	Helicobacter pylori F57
+456	root; Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales	Alteromonadales
+364	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Candidatus Liberibacter	Candidatus Liberibacter
+264	root; Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus; Staphylococcus aureus	Staphylococcus aureus
+493	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Edwardsiella; Edwardsiella tarda	Edwardsiella tarda
+496	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Enterobacter; Enterobacter cloacae	Enterobacter cloacae
+592	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas	Pseudomonas
+403	root; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Achromobacter	Achromobacter
+204	root; Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Oscillatoriales; Phormidium	Phormidium
+359	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Phyllobacteriaceae; Mesorhizobium; Mesorhizobium loti	Mesorhizobium loti
+615	root; Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio cholerae O139	Vibrio cholerae O139
+520	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Klebsiella; Klebsiella pneumoniae subsp. pneumoniae	Klebsiella pneumoniae subsp. pneumoniae
+187	root; Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Microcystis	Microcystis
+200	root; Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechococcus; Synechococcus sp. WH 8109	Synechococcus sp. WH 8109
+450	root; Bacteria; Proteobacteria; Gammaproteobacteria; Aeromonadales; Aeromonadaceae	Aeromonadaceae
+439	root; Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Campylobacteraceae; Campylobacter	Campylobacter
+471	root; Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Pseudoalteromonadaceae; Pseudoalteromonas; Pseudoalteromonas sp. H105	Pseudoalteromonas sp. H105
+547	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+610	root; Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Salinivibrio; Salinivibrio costicola	Salinivibrio costicola
+97	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Tsukamurellaceae	Tsukamurellaceae
+598	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas aeruginosa PA14	Pseudomonas aeruginosa PA14
+231	root; Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus cereus	Bacillus cereus
+130	root; Bacteria; Actinobacteria; Actinobacteria; Streptomycetales; Streptomycetaceae; Streptomyces; Streptomyces griseus	Streptomyces griseus
+172	root; Bacteria; Chlamydiae; Chlamydiia	Chlamydiia
+36	root; Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Haloarcula; Haloarcula hispanica ATCC 33960	Haloarcula hispanica ATCC 33960
+267	root; Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus; Staphylococcus aureus subsp. aureus NCTC 8325	Staphylococcus aureus subsp. aureus NCTC 8325
+244	root; Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Geobacillus; Geobacillus kaustophilus	Geobacillus kaustophilus
+179	root; Bacteria; Cyanobacteria	Cyanobacteria
+585	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter genomosp. 16BJ	Acinetobacter genomosp. 16BJ
+334	root; Bacteria; Firmicutes; Clostridia; Clostridiales; Peptostreptococcaceae; Peptoclostridium; Peptoclostridium difficile	Peptoclostridium difficile
+535	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella	Salmonella
+326	root; Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae; Clostridium	Clostridium
+157	root; Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Cellulophaga; Cellulophaga baltica	Cellulophaga baltica
+600	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas aeruginosa PAO1	Pseudomonas aeruginosa PAO1
+60	root; Archaea; Euryarchaeota; Thermococci	Thermococci
+580	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales; Pasteurellaceae; Mannheimia; Mannheimia haemolytica	Mannheimia haemolytica
+606	root; Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae	Vibrionaceae
+350	root; Bacteria; Proteobacteria; Alphaproteobacteria; Pelagibacterales; Pelagibacteraceae; Candidatus Pelagibacter	Candidatus Pelagibacter
+476	root; Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Shewanellaceae; Shewanella; Shewanella sp. 40	Shewanella sp. 40
+393	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodospirillales; Rhodospirillaceae	Rhodospirillaceae
+508	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli O103:H25	Escherichia coli O103:H25
+309	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus	Streptococcus
+505	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli CFT073	Escherichia coli CFT073
+195	root; Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechococcus; Synechococcus sp. WH 8012	Synechococcus sp. WH 8012
+629	root; Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Stenotrophomonas; Stenotrophomonas maltophilia	Stenotrophomonas maltophilia
+133	root; Bacteria; Actinobacteria; Actinobacteria; Streptomycetales; Streptomycetaceae; Streptomyces; Streptomyces venezuelae ATCC 10712	Streptomyces venezuelae ATCC 10712
+147	root; Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Bacteroidaceae	Bacteroidaceae
+192	root; Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechococcus; Synechococcus sp. CB0201	Synechococcus sp. CB0201
+4	root; Archaea; Crenarchaeota	Crenarchaeota
+344	root; Bacteria; Proteobacteria; Alphaproteobacteria; Caulobacterales; Caulobacteraceae	Caulobacteraceae
+196	root; Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechococcus; Synechococcus sp. WH 8017	Synechococcus sp. WH 8017
+145	root; Bacteria; Bacteroidetes; Bacteroidia	Bacteroidia
+194	root; Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechococcus; Synechococcus sp. WH 7803	Synechococcus sp. WH 7803
+531	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Proteus	Proteus
+276	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae; Enterococcus	Enterococcus
+622	root; Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio sp. YD21	Vibrio sp. YD21
+120	root; Bacteria; Actinobacteria; Actinobacteria; Propionibacteriales; Propionibacteriaceae	Propionibacteriaceae
+96	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Nocardiaceae; Rhodococcus; Rhodococcus globerulus	Rhodococcus globerulus
+19	root; Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus; Sulfolobus islandicus	Sulfolobus islandicus
+497	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Erwinia	Erwinia
+126	root; Bacteria; Actinobacteria; Actinobacteria; Streptomycetales; Streptomycetaceae; Streptomyces; Streptomyces aureofaciens	Streptomyces aureofaciens
+144	root; Bacteria; Bacteroidetes; Bacteroidetes; Bacteroidetes Order II. Incertae sedis; Rhodothermaceae; Salisaeta; Salisaeta sp. SP9-1	Salisaeta sp. SP9-1
+153	root; Bacteria; Bacteroidetes; Flavobacteriia	Flavobacteriia
+340	root; Bacteria; Proteobacteria; Alphaproteobacteria	Alphaproteobacteria
+191	root; Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechococcus; Synechococcus sp. CB0101	Synechococcus sp. CB0101
+484	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Citrobacter; Citrobacter freundii	Citrobacter freundii
+474	root; Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Shewanellaceae; Shewanella	Shewanella
+273	root; Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus; Staphylococcus sp.	Staphylococcus sp.
+544	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella enterica subsp. enterica serovar Typhi	Salmonella enterica subsp. enterica serovar Typhi
+17	root; Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Stygiolobus	Stygiolobus
+165	root; Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Flavobacterium; Flavobacterium columnare	Flavobacterium columnare
+8	root; Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae; Aeropyrum	Aeropyrum
+258	root; Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae; Paenibacillus; Paenibacillus larvae	Paenibacillus larvae
+284	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus delbrueckii	Lactobacillus delbrueckii
+180	root; Bacteria; Cyanobacteria; Cyanobacteria	Cyanobacteria
+239	root; Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus thuringiensis serovar israelensis ATCC 35646	Bacillus thuringiensis serovar israelensis ATCC 35646
+241	root; Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus thuringiensis serovar tenebrionis	Bacillus thuringiensis serovar tenebrionis
+599	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas aeruginosa PAK	Pseudomonas aeruginosa PAK
+644	root; Bacteria; Tenericutes; Mollicutes; Entomoplasmatales; Spiroplasmataceae	Spiroplasmataceae
+437	root; Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales	Campylobacterales
+512	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli O157:H7	Escherichia coli O157:H7
+353	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae	Brucellaceae
+500	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Erwinia; Erwinia sp.	Erwinia sp.
+553	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Shigella	Shigella
+250	root; Bacteria; Firmicutes; Bacilli; Bacillales; Listeriaceae; Listeria	Listeria
+236	root; Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus sp. 6k512	Bacillus sp. 6k512
+578	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales; Pasteurellaceae; Haemophilus; Haemophilus influenzae	Haemophilus influenzae
+300	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae; Leuconostoc; Leuconostoc mesenteroides subsp. mesenteroides	Leuconostoc mesenteroides subsp. mesenteroides
+125	root; Bacteria; Actinobacteria; Actinobacteria; Streptomycetales; Streptomycetaceae; Streptomyces	Streptomyces
+253	root; Bacteria; Firmicutes; Bacilli; Bacillales; Listeriaceae; Listeria; Listeria monocytogenes serotype 4b str. F2365	Listeria monocytogenes serotype 4b str. F2365
+193	root; Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechococcus; Synechococcus sp. CB0202	Synechococcus sp. CB0202
+100	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Tsukamurellaceae; Tsukamurella; Tsukamurella paurometabola	Tsukamurella paurometabola
+266	root; Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus; Staphylococcus aureus subsp. aureus N315	Staphylococcus aureus subsp. aureus N315
+511	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli O157	Escherichia coli O157
+455	root; Bacteria; Proteobacteria; Gammaproteobacteria; Aeromonadales; Aeromonadaceae; Aeromonas; Aeromonas salmonicida subsp. salmonicida	Aeromonas salmonicida subsp. salmonicida
+576	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales; Pasteurellaceae; Aggregatibacter; Aggregatibacter actinomycetemcomitans D11S-1	Aggregatibacter actinomycetemcomitans D11S-1
+150	root; Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae	Porphyromonadaceae
+159	root; Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Cellulophaga; Cellulophaga baltica 18	Cellulophaga baltica 18
+237	root; Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus subtilis	Bacillus subtilis
+274	root; Bacteria; Firmicutes; Bacilli; Lactobacillales	Lactobacillales
+349	root; Bacteria; Proteobacteria; Alphaproteobacteria; Pelagibacterales; Pelagibacteraceae	Pelagibacteraceae
+498	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Erwinia; Erwinia amylovora	Erwinia amylovora
+51	root; Archaea; Euryarchaeota; Halobacteria; Natrialbales	Natrialbales
+117	root; Bacteria; Actinobacteria; Actinobacteria; Micromonosporales; Micromonosporaceae; Actinoplanes	Actinoplanes
+67	root; Bacteria; Actinobacteria	Actinobacteria
+21	root; Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus; Sulfolobus solfataricus P2	Sulfolobus solfataricus P2
+61	root; Archaea; Euryarchaeota; Thermococci; Thermococcales	Thermococcales
+93	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Nocardiaceae; Nocardia; Nocardia brasiliensis	Nocardia brasiliensis
+601	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas fluorescens	Pseudomonas fluorescens
+265	root; Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus; Staphylococcus aureus HIP07256	Staphylococcus aureus HIP07256
+222	root; Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae; Thermus; Thermus thermophilus	Thermus thermophilus
+308	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Lactococcus; Lactococcus lactis subsp. lactis Il1403	Lactococcus lactis subsp. lactis Il1403
+127	root; Bacteria; Actinobacteria; Actinobacteria; Streptomycetales; Streptomycetaceae; Streptomyces; Streptomyces avermitilis	Streptomyces avermitilis
+477	root; Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Shewanellaceae; Shewanella; Shewanella sp. 41	Shewanella sp. 41
+336	root; Bacteria; Firmicutes; Clostridia; Thermoanaerobacterales; Thermoanaerobacterales Family III. Incertae Sedis	Thermoanaerobacterales Family III. Incertae Sedis
+55	root; Archaea; Euryarchaeota; Methanobacteria	Methanobacteria
+108	root; Bacteria; Actinobacteria; Actinobacteria; Micrococcales; Microbacteriaceae; Microbacterium	Microbacterium
+579	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales; Pasteurellaceae; Mannheimia	Mannheimia
+555	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Shigella; Shigella flexneri	Shigella flexneri
+358	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Phyllobacteriaceae; Mesorhizobium	Mesorhizobium
+263	root; Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus	Staphylococcus
+427	root; Bacteria; Proteobacteria; Deltaproteobacteria; Bdellovibrionales	Bdellovibrionales
+458	root; Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Alteromonadaceae; Alteromonas	Alteromonas
+570	root; Bacteria; Proteobacteria; Gammaproteobacteria; Oceanospirillales; Oceanospirillaceae	Oceanospirillaceae
+341	root; Bacteria; Proteobacteria; Alphaproteobacteria; Candidatus Puniceispirillum	Candidatus Puniceispirillum
+522	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Kluyvera	Kluyvera
+87	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae; Mycobacterium; Mycobacterium smegmatis	Mycobacterium smegmatis
+374	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Celeribacter; Celeribacter marinus	Celeribacter marinus
+128	root; Bacteria; Actinobacteria; Actinobacteria; Streptomycetales; Streptomycetaceae; Streptomyces; Streptomyces coelicolor A3-2-	Streptomyces coelicolor A3-2-
+146	root; Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales	Bacteroidales
+262	root; Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae	Staphylococcaceae
+557	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Shigella; Shigella sonnei	Shigella sonnei
+115	root; Bacteria; Actinobacteria; Actinobacteria; Micromonosporales	Micromonosporales
+228	root; Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus	Bacillus
+181	root; Bacteria; Cyanobacteria; Cyanobacteria; Nostocales	Nostocales
+199	root; Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechococcus; Synechococcus sp. WH 8102	Synechococcus sp. WH 8102
+332	root; Bacteria; Firmicutes; Clostridia; Clostridiales; Peptostreptococcaceae	Peptostreptococcaceae
+469	root; Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Pseudoalteromonadaceae; Pseudoalteromonas; Pseudoalteromonas espejiana	Pseudoalteromonas espejiana
+269	root; Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus; Staphylococcus epidermidis	Staphylococcus epidermidis
+392	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodospirillales	Rhodospirillales
+90	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae; Mycobacterium; Mycobacterium vaccae	Mycobacterium vaccae
+367	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium; Rhizobium gallicum	Rhizobium gallicum
+631	root; Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xanthomonas; Xanthomonas campestris pv. pelargonii	Xanthomonas campestris pv. pelargonii
+26	root; Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae	Thermoproteaceae
+110	root; Bacteria; Actinobacteria; Actinobacteria; Micrococcales; Microbacteriaceae; Microbacterium; Microbacterium oxydans	Microbacterium oxydans
+169	root; Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Riemerella	Riemerella
+428	root; Bacteria; Proteobacteria; Deltaproteobacteria; Bdellovibrionales; Bdellovibrionaceae	Bdellovibrionaceae
+459	root; Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Alteromonadaceae; Alteromonas; Alteromonas macleodii str. 'Balearic Sea AD45'	Alteromonas macleodii str. 'Balearic Sea AD45'
+549	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella sp.	Salmonella sp.
+297	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae	Leuconostocaceae
+414	root; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; Burkholderia thailandensis	Burkholderia thailandensis
+413	root; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; Burkholderia pyrrocinia	Burkholderia pyrrocinia
+542	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella enterica subsp. enterica serovar Newport	Salmonella enterica subsp. enterica serovar Newport
+114	root; Bacteria; Actinobacteria; Actinobacteria; Micrococcales; Micrococcaceae; Arthrobacter; Arthrobacter sp. ATCC 21022	Arthrobacter sp. ATCC 21022
+118	root; Bacteria; Actinobacteria; Actinobacteria; Micromonosporales; Micromonosporaceae; Actinoplanes; Actinoplanes sp. SN223/29	Actinoplanes sp. SN223/29
+481	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Candidatus Hamiltonella	Candidatus Hamiltonella
+487	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Cronobacter	Cronobacter
+485	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Citrobacter; Citrobacter rodentium	Citrobacter rodentium
+24	root; Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus; Sulfolobus sp. G4T-1	Sulfolobus sp. G4T-1
+7	root; Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae	Desulfurococcaceae
+482	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Candidatus Hamiltonella; Candidatus Hamiltonella defensa	Candidatus Hamiltonella defensa
+214	root; Bacteria; Cyanobacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Prochlorococcus marinus str. NATL2A	Prochlorococcus marinus str. NATL2A
+441	root; Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Campylobacteraceae; Campylobacter; Campylobacter jejuni subsp. jejuni PT14	Campylobacter jejuni subsp. jejuni PT14
+59	root; Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanothermobacter; Methanothermobacter thermautotrophicus	Methanothermobacter thermautotrophicus
+494	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Enterobacter	Enterobacter
+418	root; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae	Comamonadaceae
+137	root; Bacteria; Aquificae; Aquificae; Aquificales; Aquificaceae	Aquificaceae
+446	root; Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae; Helicobacter; Helicobacter pylori B45	Helicobacter pylori B45
+106	root; Bacteria; Actinobacteria; Actinobacteria; Micrococcales; Microbacteriaceae; Clavibacter	Clavibacter
+10	root; Archaea; Crenarchaeota; Thermoprotei; Sulfolobales	Sulfolobales
+48	root; Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Halorubrum; Halorubrum sp. PV6	Halorubrum sp. PV6
+360	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae	Rhizobiaceae
+540	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella enterica subsp. enterica serovar Enteritidis	Salmonella enterica subsp. enterica serovar Enteritidis
+182	root; Bacteria; Cyanobacteria; Cyanobacteria; Nostocales; Nostocaceae	Nostocaceae
+597	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas aeruginosa CHA	Pseudomonas aeruginosa CHA
+277	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae; Enterococcus; Enterococcus faecalis	Enterococcus faecalis
+294	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus sp.	Lactobacillus sp.
+489	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Cronobacter; Cronobacter sakazakii ES15	Cronobacter sakazakii ES15
+63	root; Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Pyrococcus	Pyrococcus
+582	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae	Moraxellaceae
+436	root; Bacteria; Proteobacteria; Epsilonproteobacteria	Epsilonproteobacteria
+442	root; Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Campylobacteraceae; Campylobacter; Campylobacter sp.	Campylobacter sp.
+73	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales	Corynebacteriales
+42	root; Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Haloferax; Haloferax lucentense	Haloferax lucentense
+453	root; Bacteria; Proteobacteria; Gammaproteobacteria; Aeromonadales; Aeromonadaceae; Aeromonas; Aeromonas media	Aeromonas media
+134	root; Bacteria; Aquificae	Aquificae
+306	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Lactococcus; Lactococcus lactis	Lactococcus lactis
+312	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus mutans	Streptococcus mutans
+15	root; Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Acidianus; Acidianus hospitalis	Acidianus hospitalis
+68	root; Bacteria; Actinobacteria; Actinobacteria	Actinobacteria
+99	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Tsukamurellaceae; Tsukamurella; Tsukamurella inchonensis	Tsukamurella inchonensis
+612	root; Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio alginolyticus	Vibrio alginolyticus
+507	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli K-12	Escherichia coli K-12
+152	root; Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; Parabacteroides; Parabacteroides merdae	Parabacteroides merdae
+645	root; Bacteria; Tenericutes; Mollicutes; Entomoplasmatales; Spiroplasmataceae; Spiroplasma	Spiroplasma
+44	root; Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Halogeometricum; Halogeometricum sp. CG-9	Halogeometricum sp. CG-9
+202	root; Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Oscillatoriales; Leptolyngbya	Leptolyngbya
+479	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales	Enterobacteriales
+538	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella; Salmonella enterica subsp. enterica serovar Anatum	Salmonella enterica subsp. enterica serovar Anatum
+348	root; Bacteria; Proteobacteria; Alphaproteobacteria; Pelagibacterales	Pelagibacterales
+131	root; Bacteria; Actinobacteria; Actinobacteria; Streptomycetales; Streptomycetaceae; Streptomyces; Streptomyces lividans	Streptomyces lividans
+249	root; Bacteria; Firmicutes; Bacilli; Bacillales; Listeriaceae; Brochothrix; Brochothrix thermosphacta	Brochothrix thermosphacta
+420	root; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Delftia; Delftia acidovorans	Delftia acidovorans
+513	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli O157:H7 str. EDL933	Escherichia coli O157:H7 str. EDL933
+140	root; Bacteria; Bacteroidetes; Bacteroidetes	Bacteroidetes
+444	root; Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae; Helicobacter	Helicobacter
+467	root; Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Pseudoalteromonadaceae	Pseudoalteromonadaceae
+86	root; Bacteria; Actinobacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae; Mycobacterium; Mycobacterium avium	Mycobacterium avium
+462	root; Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Colwelliaceae; Colwellia; Colwellia psychrerythraea 34H	Colwellia psychrerythraea 34H
+424	root; Bacteria; Proteobacteria; Betaproteobacteria; Neisseriales; Chromobacteriaceae; Iodobacter	Iodobacter
+233	root; Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus megaterium	Bacillus megaterium
+213	root; Bacteria; Cyanobacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Prochlorococcus marinus str. NATL1A	Prochlorococcus marinus str. NATL1A
+245	root; Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Geobacillus; Geobacillus sp. 6k51	Geobacillus sp. 6k51
+101	root; Bacteria; Actinobacteria; Actinobacteria; Micrococcales	Micrococcales
+328	root; Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae; Clostridium; Clostridium sporogenes	Clostridium sporogenes
+567	root; Bacteria; Proteobacteria; Gammaproteobacteria; Oceanospirillales; Halomonadaceae; Halomonas	Halomonas
+226	root; Bacteria; Firmicutes; Bacilli; Bacillales	Bacillales
+514	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Escherichia coli PA2	Escherichia coli PA2
+325	root; Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae	Clostridiaceae
+404	root; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Achromobacter; Achromobacter xylosoxidans	Achromobacter xylosoxidans
+331	root; Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae; Clostridium; Clostridium tyrobutyricum	Clostridium tyrobutyricum
+634	root; Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xanthomonas; Xanthomonas vesicatoria	Xanthomonas vesicatoria
+287	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus gasseri	Lactobacillus gasseri
+560	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Yersinia	Yersinia
+175	root; Bacteria; Chlamydiae; Chlamydiia; Chlamydiales; Chlamydiaceae; Chlamydia	Chlamydia
+390	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Sulfitobacter; Sulfitobacter sp. CB2047	Sulfitobacter sp. CB2047
+318	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus pyogenes MGAS315	Streptococcus pyogenes MGAS315
+400	root; Bacteria; Proteobacteria; Betaproteobacteria	Betaproteobacteria
+154	root; Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales	Flavobacteriales
+1	root	root
+523	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Kluyvera; Kluyvera cryocrescens	Kluyvera cryocrescens
+643	root; Bacteria; Tenericutes; Mollicutes; Entomoplasmatales	Entomoplasmatales
+49	root; Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Halorubrum; Halorubrum sp. SP3-3	Halorubrum sp. SP3-3
+283	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus casei	Lactobacillus casei
+305	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Lactococcus	Lactococcus
+571	root; Bacteria; Proteobacteria; Gammaproteobacteria; Oceanospirillales; Oceanospirillaceae; Marinomonas	Marinomonas
+569	root; Bacteria; Proteobacteria; Gammaproteobacteria; Oceanospirillales; Halomonadaceae; Salicola	Salicola
+18	root; Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus	Sulfolobus
+649	root; Bacteria; Tenericutes; Mollicutes; Mycoplasmatales; Mycoplasmataceae	Mycoplasmataceae
+70	root; Bacteria; Actinobacteria; Actinobacteria; Actinomycetales; Actinomycetaceae	Actinomycetaceae
+613	root; Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio cholerae	Vibrio cholerae
+170	root; Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Riemerella; Riemerella anatipestifer	Riemerella anatipestifer
+139	root; Bacteria; Bacteroidetes	Bacteroidetes
+314	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus parauberis	Streptococcus parauberis
+343	root; Bacteria; Proteobacteria; Alphaproteobacteria; Caulobacterales	Caulobacterales
+533	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Providencia	Providencia
+604	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas tolaasii	Pseudomonas tolaasii
+330	root; Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae; Clostridium; Clostridium tetani ATCC 9441	Clostridium tetani ATCC 9441
+452	root; Bacteria; Proteobacteria; Gammaproteobacteria; Aeromonadales; Aeromonadaceae; Aeromonas; Aeromonas hydrophila	Aeromonas hydrophila
+410	root; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; Burkholderia cenocepacia J2315	Burkholderia cenocepacia J2315
+466	root; Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Idiomarinaceae; Idiomarinaceae bacterium N2-2	Idiomarinaceae bacterium N2-2
+384	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Rhodobacter; Rhodobacter sp.	Rhodobacter sp.
+122	root; Bacteria; Actinobacteria; Actinobacteria; Propionibacteriales; Propionibacteriaceae; Propionibacterium; Propionibacterium acnes	Propionibacterium acnes
+465	root; Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Idiomarinaceae	Idiomarinaceae
+421	root; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Delftia; Delftia sp. 670	Delftia sp. 670
+623	root; Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Vibrio sp. YD38	Vibrio sp. YD38
+554	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Shigella; Shigella boydii	Shigella boydii
+143	root; Bacteria; Bacteroidetes; Bacteroidetes; Bacteroidetes Order II. Incertae sedis; Rhodothermaceae; Salisaeta	Salisaeta
+219	root; Bacteria; Deinococcus-Thermus; Deinococci; Thermales	Thermales
+573	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales; Pasteurellaceae	Pasteurellaceae
+107	root; Bacteria; Actinobacteria; Actinobacteria; Micrococcales; Microbacteriaceae; Clavibacter; Clavibacter michiganensis subsp. michiganensis	Clavibacter michiganensis subsp. michiganensis
+518	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Klebsiella; Klebsiella oxytoca	Klebsiella oxytoca
+647	root; Bacteria; Tenericutes; Mollicutes; Entomoplasmatales; Spiroplasmataceae; Spiroplasma; Spiroplasma melliferum	Spiroplasma melliferum
+409	root; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; Burkholderia cenocepacia HI2424	Burkholderia cenocepacia HI2424
+205	root; Bacteria; Cyanobacteria; Cyanobacteria; Oscillatoriophycideae; Oscillatoriales; Phormidium; Phormidium sp.	Phormidium sp.
+423	root; Bacteria; Proteobacteria; Betaproteobacteria; Neisseriales; Chromobacteriaceae	Chromobacteriaceae
+603	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas putida	Pseudomonas putida
+285	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus delbrueckii subsp. lactis	Lactobacillus delbrueckii subsp. lactis
+451	root; Bacteria; Proteobacteria; Gammaproteobacteria; Aeromonadales; Aeromonadaceae; Aeromonas	Aeromonas
+633	root; Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xanthomonas; Xanthomonas oryzae	Xanthomonas oryzae
+561	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Yersinia; Yersinia enterocolitica	Yersinia enterocolitica
+23	root; Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus; Sulfolobus sp. G4ST-2	Sulfolobus sp. G4ST-2
+280	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae	Lactobacillaceae
+594	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; PPseudomonas syringae pv. actinidiae	PPseudomonas syringae pv. actinidiae
+62	root; Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae	Thermococcaceae
+163	root; Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Croceibacter; Croceibacter atlanticus HTCC2559	Croceibacter atlanticus HTCC2559
+155	root; Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae	Flavobacteriaceae
+212	root; Bacteria; Cyanobacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Prochlorococcus marinus str. MIT 9515	Prochlorococcus marinus str. MIT 9515
+320	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus suis	Streptococcus suis
+289	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus jensenii	Lactobacillus jensenii
+415	root; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Ralstonia	Ralstonia
+389	root; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Sulfitobacter	Sulfitobacter
+259	root; Bacteria; Firmicutes; Bacilli; Bacillales; Sporolactobacillaceae	Sporolactobacillaceae
+529	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Pectobacterium; Pectobacterium atrosepticum SCRI1043	Pectobacterium atrosepticum SCRI1043
+472	root; Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Pseudoalteromonadaceae; Pseudoalteromonas; Pseudoalteromonas sp. YD6	Pseudoalteromonas sp. YD6
+587	root; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter nosocomialis M2	Acinetobacter nosocomialis M2
+223	root; Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae; Thermus; Thermus thermophilus HB8	Thermus thermophilus HB8
+296	root; Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Pediococcus; Pediococcus damnosus	Pediococcus damnosus
+488	root; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Cronobacter; Cronobacter sakazakii	Cronobacter sakazakii
+607	root; Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Aliivibrio	Aliivibrio

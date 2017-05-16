@@ -1,0 +1,132 @@
+#!/usr/bin/perl -w
+use strict;
+
+#######################################################
+#*	train phage genome kmer frequencies space with svm	
+#*	Writen by Xiao-Tao JANG			
+#*	13-06-2016				
+#*						
+#*	
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#######################################################
+
+
+
+## This script is to train all the phage-host relationship into SVM model
+## To achieve this aim, several major steps as given below
+## 1. Prepare fasta database files for all phages with host tree information
+## 2. Generate Kmer Profiles matrix
+## 3. Train the model with SVM struct   
+
+my $usage = <<USG;
+	
+	perl $0 -i <database.fa> -t <hostdb.nwk> -o <output dir> -l [fragment length] -c [parameter C] 
+	-s [kmer from] -e [kmer to] -h 
+
+USG
+
+
+use Getopt::Std;
+use FindBin qw($Bin);
+
+##Preload current directory into PERL @INC directory using BEGIN block
+BEGIN {
+    my $PHostidir = $Bin;
+    unshift @INC, $PHostidir;
+}
+##----------------------------------------------------
+
+our $PHostidir = $Bin;
+our($opt_i,$opt_t, $opt_o, $opt_l, $opt_c, $opt_s, $opt_e, $opt_h)="";
+getopts('i:t:o:l:c:s:e:h');
+
+my $phylearn = "$PHostidir/bin/svm_phylo_learn";
+my $fa2kmer = "$PHostidir/bin/fasta2kmers2";
+
+if($opt_h || ($opt_i eq "")){ die $usage; }  ##Print help information
+
+##Process input fasta to generate the Kmer Profile
+die "$! $opt_i\n" unless open(IN, "$opt_i");
+#split fasta in to length of l and generate Kmer profile for all selected kmers 
+$/ = ">";
+$opt_l ||= 5000;
+$opt_c ||= 1000;
+$opt_s ||= 4;
+$opt_e ||=6;
+
+my $leng = $opt_l;
+
+unless(-d "$opt_o"){ `mkdir $opt_o`;}
+unless(-d "$opt_o/dbfa"){ `mkdir $opt_o/dbfa`;}
+my $opt_prefix = $opt_i; $opt_prefix =~ s/\.fa$//; $opt_prefix =~ s/\.fasta$//;##Generate output prefix
+my $ocfa = "$opt_o/dbfa/$opt_prefix\_cut_$leng\.fasta";
+die "$!\n" unless open(CFA, ">$ocfa"); #OUTPUT split sequences into fa
+
+<IN>;
+while(<IN>){
+        chomp;
+        my @ts = split("\n",$_, 2);
+        $ts[1] =~ s/\n//g;
+        my $ofragment = cut_seqs($ts[0], $ts[1], $leng);
+        if($ofragment ne "Nil"){
+                print CFA "$ofragment\n";
+        }
+}
+close IN;
+close CFA;
+$/="\n";
+#-------------------------------------------------------------------------------------
+
+##generate svm struct model with the splited fasta and kmer profile.
+die "$ocfa was not correctly generated\n" unless(-e $ocfa);
+my $kprof = "$opt_o/dbfa/$opt_prefix\_cut_$leng\.kprof";
+#Kmer profile
+`$fa2kmer -i $ocfa -f $kprof -a w -s 1 -l 1 -o 1 -n 1 -b 1 -j $opt_s -k $opt_e`;
+die "$kprof was not correctly generated\n" unless(-e $kprof);
+
+my $ksvm = "$opt_o/$opt_prefix\_cut$leng.svm";
+#Prediction with already generated SVM model
+`$phylearn -t 0 -v 1 -o 2 --t $opt_t --v 1 --z 1 -c $opt_c $kprof $ksvm`;
+#-------------------------------------------------------------------------------------------
+
+
+#Split seqs into a length fragment
+sub cut_seqs{
+        my ($id, $seq, $len) = @_;
+        my $tlen = length($seq);
+
+        my $index = int($tlen/$len);
+
+        if($index == 0 && $tlen < 0.5 * $len){
+                return "Nil";
+        }elsif($index == 0 && $tlen >= 0.5 * $len){
+                my $oseq = join("\n", ">$id\tFragment_0", $seq);
+
+        }else{
+                my @tem = ();
+                for(my $i = 0; $i <= $index; $i++){
+                        my $ofrag = substr($seq, $i * $index, $len);
+                        my $oid = join("\t", ">$id", "Fragment_$i");
+                        my $oseq = join("\n", $oid, $ofrag);
+                        push @tem, $oseq;
+                }
+                ##the left fragment of sequences shorter than $len; if over 50% of the $len then keep it
+                if( $tlen - ($index * $len) >= 0.5 * $len){
+                        my $ofrag = substr($seq, $len * $index, ($tlen - $index * $len) );
+                        my $oind = $index + 1;
+                        my $oid = join("\t", ">$id", "Fragment_$oind");
+                        my $oseq = join("\n", $oid, $ofrag);
+                        push @tem, $oseq;
+                }
+                ##ouput all the fragemnted sequences
+                return join("\n", @tem);
+        }
+}#cut_seqs
+
+
